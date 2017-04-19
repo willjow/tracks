@@ -2674,12 +2674,12 @@ Rocé - On S'habitue - DJ Premier
 CMP Familia, ATK, LDC & Les Repentis - Guerrier De L'est - DJ Premier
 Jeru - Full of Papers (rmx) (instrumental) - DJ Premier
 Royce Da 5'9'' - Boom - DJ Premier
-MOP - Face Off - DJ Premier
-Masta Ase - One Last Rhyme - DJ Premier
+MOP - Face Off (1st Beat) - DJ Premier
+MOP - Face Off (2nd Beat) - DJ Premier
+Masta Ase - Last Bref - DJ Premier
 Ghostface Killah Featuring Hell Razah & Chip Banks - We Made It - DJ Premier
-Sonja Blade - Body Bag Shit - DJ Premier
-Unknown Artist - Unknown - DJ Premier
-Unknown Artist - Unknown - DJ Premier
+Sonja Blade - Body Bag Shit (1st Beat) - DJ Premier
+Sonja Blade - Body Bag Shit (2nd Beat) - DJ Premier
 Unknown Artist - Unknown - DJ Premier
 Unknown Artist - Unknown - DJ Premier
 Black Rob - By A Stranger - DJ Premier
@@ -3131,3 +3131,5 @@ Quiet Blues (PH-Wert) - Mark Farina
 Blue (Extended) (The Deli) - Mark Farina
 Slow It Down (Colossus) - Mark Farina
 I Still Don't, Pt. II (Larry de Kat) - Mark Farina
+Side A - DJ Premier
+Side B - DJ Premier
