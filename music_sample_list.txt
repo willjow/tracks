@@ -165,6 +165,7 @@ smif-n-wessun: bucktown
 sound providers: autumn's evening breeze
 sound providers: the field
 specifics: under the hood
+strange fruit project: clap yo hands
 strange fruit project: keep it moving
 strange fruit project: maintain
 strange fruit project: waitin
