@@ -70,7 +70,7 @@ def current_library(music_dir):
 
 
 def update_library_df(music_dir, lib_csv=None):
-    """Serializes a pandas dataframe of the current library
+    """Writes a pandas dataframe of the current library
 
     Parameters
     ----------
@@ -88,6 +88,7 @@ def update_library_df(music_dir, lib_csv=None):
     new_df['date_added_to_library'] = new_date
 
     if os.path.isfile(lib_csv):
+        # preserve the old dates by appending only the new tracks for this call
         old_df = pd.read_csv(lib_csv)
         new_tracks = (pd.merge(new_df, old_df, how='left', on='title',
                                indicator=True)
@@ -98,5 +99,5 @@ def update_library_df(music_dir, lib_csv=None):
     new_df.to_csv(lib_csv)
 
 if __name__  == '__main__':
-    update_library_df(sys.argv[1])
+    update_library_df(*sys.argv[1:])
 
