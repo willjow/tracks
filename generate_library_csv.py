@@ -3,46 +3,49 @@ import datetime
 import json
 import glob
 import os
-import pandas as pd
 import pickle
 import subprocess as sp
 import sys
+
+import pandas as pd
 
 FFPROBE_CMD = ["ffprobe", "-loglevel", "quiet", "-show_entries",
                "format_tags:format", "-of", "json"]
 DEFAULT_KEYS = ['album_artist', 'album', 'track', 'title', 'artist', 'duration']
 
-TEST_FILE = "/home/wjow/music/dl/Madlib/Jackson Conti/Jackson Conti - Sujinho/01 - Mamaoism.mp3"
-TEST_BAD_FILE = "/home/wjow/music/dl/Madlib/Jackson Conti/cover.png"
-TEST_DIR = "/home/wjow/music/dl/Madlib/MED, Blu & Madlib/"
 
-
-def track_data(track):
+def track_data(track, keys=None):
     """Returns a dict of the track's metadata and stream data.
 
     Parameters
     ----------
     track : str
         The filename of the track from which to read metadata.
+    keys : list, optional
+        A list of tags to capture from the track metadata.
 
     Raises
     ------
     ValueError
         If the ffprobe command fails on the input (track).
     """
+    if keys is None:
+        keys = DEFAULT_KEYS
+
     cp = sp.run(FFPROBE_CMD + [track], capture_output=True)
 
     if cp.returncode:
-        raise ValueError(f"Can't read stream/tag data from input ({track})")
+        raise KeyError(f"Can't read stream/tag data from input ({track})")
 
     data = json.loads(cp.stdout.decode())['format']
     tags = data['tags']
     del data['tags']
     data.update(tags)
+    data = {k: data[k] for k in keys if k in data}
     return data
 
 
-def current_library(music_dir):
+def library_data(music_dir, keys=None):
     """Returns a list of dicts containing all the data for tracks in
     music_dir (recursive).
 
@@ -50,26 +53,29 @@ def current_library(music_dir):
     ----------
     music_dir : str
         The directory in which to search for music files.
+    keys : list, optional
+        A list of track tags to capture. Defers default to that of track_data().
     """
     errors = []
     tracks = []
 
     for fn in glob.iglob(music_dir + '**/*', recursive=True):
         try:
-            tracks.append(track_data(fn))
-        except ValueError:
+            tracks.append(track_data(fn, keys))
+        except KeyError:
             if not os.path.isdir(fn):
                 sys.stderr.write(f"Can't get track data from {fn}\n")
                 errors.append(fn)
 
-    with open('track_data_errors.txt', 'w') as errorfile:
-        for error in errors:
-            errorfile.write(f"{error}\n")
+    if errors:
+        with open('track_data_errors.txt', 'w+') as errorfile:
+            for error in errors:
+                errorfile.write(f"{error}\n")
 
     return tracks
 
 
-def update_library_df(music_dir, lib_csv=None):
+def update_library_df(music_dir, lib_csv= "lib_csv.csv", keys=DEFAULT_KEYS):
     """Writes a pandas dataframe of the current library
 
     Parameters
@@ -79,24 +85,44 @@ def update_library_df(music_dir, lib_csv=None):
     lib_csv : str, optional
         The filepath of the library dataframe csv.
         Defaults to "library.csv"
+    keys : list, optional
+        A list of tag keys to use for populating the dataframe. This list will
+        also be used to determine the order of the columns in the dataframe.
+        Defaults to DEFAULT_KEYS.
     """
-    if lib_csv is None:
-        lib_csv = "lib_csv.csv"
+    # read library to populat dataframe
+    new_df = pd.DataFrame(library_data(music_dir, keys))
 
-    new_df = pd.DataFrame(current_library(music_dir))
+    # track the date added to the library
     new_date = str(datetime.date.today())
-    new_df['date_added_to_library'] = new_date
+    new_df['date_added_to_lib'] = new_date
 
+    # update existing csv
     if os.path.isfile(lib_csv):
         # preserve the old dates by appending only the new tracks for this call
         old_df = pd.read_csv(lib_csv)
-        new_tracks = (pd.merge(new_df, old_df, how='left', on='title',
-                               indicator=True)
-                        .query("_merge == 'left_only'")
-                        .drop('_merge', axis=1)
-        new_df = old_df.append(new_tracks)
+        new_df = old_df.append(new_tracks(new_df, old_df), sort=False)
+        new_df.reset_index(drop=True, inplace=True)
 
+    # reorder columns
+    col_order = pd.Index([k for k in keys if k in new_df.columns])
+    missing_cols = new_df.columns.difference(col_order, sort=False)
+    col_order = col_order.append(missing_cols)
+
+    new_df = new_df[col_order]
     new_df.to_csv(lib_csv)
+
+
+def new_tracks(new_df, old_df):
+    """Returns the portion (rows) of new_df that includes tracks which aren't
+    in old_df.
+    """
+    nt = (pd.merge(new_df, old_df, how='left', on=['title', 'artist'],
+                   indicator=True)
+            .query("_merge == 'left_only'")
+            .drop('_merge', axis=1))
+    return nt
+
 
 if __name__  == '__main__':
     update_library_df(*sys.argv[1:])
