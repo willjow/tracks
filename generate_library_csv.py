@@ -69,7 +69,7 @@ def current_library(music_dir):
     return tracks
 
 
-def update_library_df(music_dir, lib_csv="lib_csv.csv"):
+def update_library_df(music_dir, lib_csv=None):
     """Serializes a pandas dataframe of the current library
 
     Parameters
@@ -80,11 +80,23 @@ def update_library_df(music_dir, lib_csv="lib_csv.csv"):
         The filepath of the library dataframe csv.
         Defaults to "library.csv"
     """
-    new_date = str(datetime.date.today())
+    if lib_csv is None:
+        lib_csv = "lib_csv.csv"
+
     new_df = pd.DataFrame(current_library(music_dir))
+    new_date = str(datetime.date.today())
+    new_df['date_added_to_library'] = new_date
+
     if os.path.isfile(lib_csv):
         old_df = pd.read_csv(lib_csv)
-        mask = 
+        new_tracks = (pd.merge(new_df, old_df, how='left', on='title',
+                               indicator=True)
+                        .query("_merge == 'left_only'")
+                        .drop('_merge', axis=1)
+        new_df = old_df.append(new_tracks)
 
     new_df.to_csv(lib_csv)
+
+if __name__  == '__main__':
+    update_library_df(sys.argv[1])
 
