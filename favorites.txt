@@ -24,6 +24,7 @@ dj crossphader: another li groove
 # beats
 j dilla: rare dilla track 12
 j dilla: c.i. master
+consequence: rock n roll
 janet jackson: got til it's gone (ummah jay dee mix)
 monorisick / substantial: home sweet home
 himuki: wanted u down
@@ -140,6 +141,7 @@ dedi baby pah / pete rock: everyman for himself
 rob-o: mention me feat meccalicious
 mack wilds: art of fallin
 pete rock: take your time
+pete rock / cl smooth: act like you know
 pete rock / cl cmooth: carmel city
 pete rock / cl cmooth: escape
 pete rock / cl cmooth: searching
@@ -269,5 +271,6 @@ eric lau: hope (feat. meshach brown)
 eric lau: oh dara
 hi tek: the sun god
 hi tek: breakin' bread
+mood: karma
 gift of gab: moonshine
 
