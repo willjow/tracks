@@ -75,7 +75,7 @@ def library_data(music_dir, keys=None):
     return tracks
 
 
-def update_library_df(music_dir, lib_csv= "lib_csv.csv", keys=DEFAULT_KEYS):
+def update_library_df(music_dir, lib_csv= "lib.csv", keys=DEFAULT_KEYS):
     """Writes a pandas dataframe of the current library
 
     Parameters
