@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+import ast
 import datetime
 import json
 import glob
@@ -75,6 +76,25 @@ def library_data(music_dir, keys=None):
     return tracks
 
 
+def new_tracks(new_df, old_df, keys=DEFAULT_KEYS):
+    """Returns the portion (rows) of new_df that includes tracks which aren't
+    in old_df.
+
+    Parameters
+    ----------
+    new_df, old_df : pandas.DataFrame
+        The new and old dataframes (libraries), respectively.
+    keys : list, optional
+        A list of columns to join on. Defaults to DEFAULT_KEYS.
+    """
+    nt = (pd.merge(new_df, old_df, how='left', on=keys, indicator=True,
+                   suffixes=('_new', '_old'))
+            .query("_merge == 'left_only'")
+            .drop(['_merge', 'catalog_date_old'], axis=1))
+    nt.rename(columns={'catalog_date_new': 'catalog_date'}, inplace=True)
+    return nt
+
+
 def update_library_df(music_dir, lib_csv= "lib.csv", keys=DEFAULT_KEYS):
     """Writes a pandas dataframe of the current library
 
@@ -102,7 +122,7 @@ def update_library_df(music_dir, lib_csv= "lib.csv", keys=DEFAULT_KEYS):
     if os.path.isfile(lib_csv):
         # preserve the old dates by appending only the new tracks for this call
         old_df = pd.read_csv(lib_csv, dtype=str, na_filter=False)
-        new_df = old_df.append(new_tracks(new_df, old_df), sort=False)
+        new_df = old_df.append(new_tracks(new_df, old_df, keys), sort=False)
         new_df.reset_index(drop=True, inplace=True)
 
     # reorder columns
@@ -114,25 +134,9 @@ def update_library_df(music_dir, lib_csv= "lib.csv", keys=DEFAULT_KEYS):
     new_df.to_csv(lib_csv, index=False)
 
 
-def new_tracks(new_df, old_df, keys=DEFAULT_KEYS):
-    """Returns the portion (rows) of new_df that includes tracks which aren't
-    in old_df.
-
-    Parameters
-    ----------
-    new_df, old_df : pandas.DataFrame
-        The new and old dataframes (libraries), respectively.
-    keys : list, optional
-        A list of columns to join on. Defaults to DEFAULT_KEYS.
-    """
-    nt = (pd.merge(new_df, old_df, how='left', on=keys, indicator=True,
-                   suffixes=('_new', '_old'))
-            .query("_merge == 'left_only'")
-            .drop(['_merge', 'catalog_date_old'], axis=1))
-    nt.rename(columns={'catalog_date_new': 'catalog_date'}, inplace=True)
-    return nt
-
-
 if __name__  == '__main__':
+    if len(sys.argv) >= 3:
+        # convert the keys arg into a list
+        sys.argv[2] = ast.literal_eval(sys.argv[2])
     update_library_df(*sys.argv[1:])
 
