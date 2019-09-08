@@ -42,7 +42,7 @@ def track_data(track, keys=None):
     tags = data['tags']
     del data['tags']
     data.update(tags)
-    data = {k: data[k] for k in keys if k in data}
+    data = {k: data.get(k) for k in keys}
     return data
 
 
@@ -110,9 +110,10 @@ def update_library_df(music_dir, lib_csv= "lib.csv", keys=DEFAULT_KEYS):
         also be used to determine the order of the columns in the dataframe.
         Defaults to DEFAULT_KEYS.
     """
-    # read library to populat dataframe
-    new_df = pd.DataFrame(library_data(music_dir, keys))
-    new_df.where(new_df.notnull(), new_df.astype(str))
+    # read library to populate dataframe
+    new_df = pd.DataFrame.from_dict(library_data(music_dir, keys))
+    new_df.fillna('', inplace=True)
+    new_df.where(new_df.notnull(), new_df.astype(str), inplace=True)
 
     # track the date added to the library
     new_date = str(datetime.date.today())
