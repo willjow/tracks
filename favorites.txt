@@ -1,45 +1,82 @@
 # format
 [artist]: [title]
 
-# babby's first sample?
-charlie biddle/oliver jones - all the things you are (4:12 - 4:25); see if this repeats anywhere else
-                              (wow this has been sampled a lot... also around 5:54 till the end)
-                            - maybe try another one from these guys?
+###############################################################################
 
 # dj mixes (these are roughly sorted by accessibility/favoritism)
-Blazo: jazz format mixtape vol 1
-freddie joachim / qstn: mellow orange vols 1-12 (these are hip-hop/jazz mixes)
-dj ameldabee: original samples vs hip hop beats 1-6 (hip hop beat selection is strong with this one... classics all around
-                                                     although I prefer how mellow orange plays things out more)
-dj skandal / le bee: pete rock vs jay dee rounds 1, 2
-robot orchestra: radio juicy vol 102
-jneiro jarel: timeless vol 1
-eddie ill and dl: a trip below (particularly tape 2, side b)
-                  scenes from the underworld (tape 1, side b)
-                  the time has come
-                  (these have some pretty nice exclusive tracks)
-monorisick: hydrothermal formation (sides a, b)
-madlib: madlib medicine show no. 5
-dj crossphader: for your listening pleasure
-                the world traveler
-                the basement experience
+Blazo:
+    * jazz format mixtape vol 1
 
-                (These first three are generally better than the later ones imo)
+freddie joachim / qstn:
+    * mellow orange vols 1-12 (these are hip-hop/jazz mixes)
 
-                another li groove
-                once upon a time
-                what's next on the menu
-                the new perspective
-eddie ill and dr dekay: beats for insomniacs
-shin-ski: lonely nights of a lonely hand
-          lonely nights of a lonely cheek
-mark farina: mushroom jazz (I tend to favor these for background music vs active listening)
-mellow orage: silent selector vols 1-3
-skeez'up: jay dee: beats, rhymes and life (mostly side A)
-nujabes: tribe sampler vol 1 (sides a, b) (this isn't really hip hop; closer to jazz)
-         sweet sticky thing (sides a, b) (this is literally 70s music)
-         good music cuisine - ristorante nujabes (preference to side b) (not really sure how to classify this... maybe closer to old house?)
-the hush brothers: MF DOOM guest shots volume 1
+dj ameldabee: original samples vs hip hop beats 1-6
+    - hip hop beat selection is strong with this one... classics all around
+      although I prefer how mellow orange plays things out more
+    * 1 is p good
+
+dj skandal / le bee:
+    * pete rock vs jay dee rounds 1, 2
+
+robot orchestra:
+    * radio juicy vol 102
+    ! elusive vol 138 which has been apparently deleted from the internet
+
+jneiro jarel:
+    * timeless vol 1
+
+eddie ill and dl:
+    * a trip below (particularly tape 2, side b)
+    * scenes from the underworld (tape 1, side b)
+    * the time has come
+    - (these have some pretty nice exclusive tracks)
+
+monorisick:
+    * hydrothermal formation (sides a, b)
+
+madlib:
+    * madlib medicine show no. 5
+
+dj crossphader:
+    * for your listening pleasure
+    * the world traveler
+    * the basement experience
+    - (These first three are generally better than the later ones imo)
+    * another li groove
+    * once upon a time
+    * what's next on the menu
+    * the new perspective
+
+eddie ill and dr dekay:
+    * beats for insomniacs
+shin-ski:
+    * lonely nights of a lonely hand
+    * lonely nights of a lonely cheek
+
+mark farina:
+    * mushroom jazz (I tend to favor these for background music vs active
+      listening)
+
+mellow orage:
+    * silent selector vols 1-3
+
+skeez'up:
+    * jay dee: beats, rhymes and life (mostly side A)
+
+nujabes:
+    * tribe sampler vol 1 (sides a, b) (this isn't really hip hop; closer to
+      jazz)
+    * sweet sticky thing (sides a, b) (this is literally 70s music)
+    * good music cuisine - ristorante nujabes (preference to side b) (not
+      really sure how to classify this... maybe closer to old house?)
+
+the hush brothers:
+    * MF DOOM guest shots volume 1
+
+ljones:
+    * aero
+
+###############################################################################
 
 # beats
 j dilla: rare dilla track 12
