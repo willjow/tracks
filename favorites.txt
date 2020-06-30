@@ -17,7 +17,12 @@ dj ameldabee: original samples vs hip hop beats 1-6
     * 2 not as hype so far... only hype part seems to be the gang starr streak
       starting halfway through (second half is like all gang starr???)
     * 3 is pretty hype, but the short playtimes start to be apparent with
-      this one
+      this one. on the other hand it has that sick transition from mobb deep to
+      masta ace
+    * 4 is just ok; limited hype; more jazz samples perhaps
+    * 5 also just ok; transitions are kind of meh and samples aren't as
+      prevalent
+    * 6 maybe better than 4 and 5; generally a good but not great mix
 
 dj skandal / le bee:
     * pete rock vs jay dee rounds 1, 2
@@ -44,6 +49,15 @@ robot orchestra:
         17.) Aesop Rock x Grimm Doza x Philo - Babies With Guns
         18.) Dead Prez x ShunGu - Hip Hop
 
+dj deckstream:
+    * indelible memories
+
+monorisick:
+    * hydrothermal formation (sides a, b)
+
+madlib:
+    * madlib medicine show no. 5
+
 jneiro jarel:
     * timeless vol 1
 
@@ -52,12 +66,6 @@ eddie ill and dl:
     * scenes from the underworld (tape 1, side b)
     * the time has come
     - (these have some pretty nice exclusive tracks)
-
-monorisick:
-    * hydrothermal formation (sides a, b)
-
-madlib:
-    * madlib medicine show no. 5
 
 nujabes:
     * tribe sampler vol 1 (sides a, b) (this isn't really hip hop; closer to
@@ -101,7 +109,7 @@ ljones:
 
 ###############################################################################
 
-# beats
+# beats/tracks
 j dilla: rare dilla track 12
 j dilla: c.i. master
 consequence: rock n roll
@@ -298,6 +306,7 @@ strange fruit project: eternally yours
 strange fruit project: makin my way
 strange fruit project: special feat thesis
 strange fruit project: gotta move featuring yolanda johnson
+strange fruit project: luv is (feat lysoul)
 substantial: remembering dave (monorisick remix)
 substantial: more than a game
 substantial: if I was your mic
@@ -335,6 +344,7 @@ slum village: are you ready feat jazzy jeff
 b.i.g / redman / method man: rap phenomenon
 cella dwellas: perfect match
 joey bada$$: on & on
+joey bada$$: snakes (feat t'nah apex)
 atcq: put it down
 artifacts: the ultimate (j dilla remix)
 artifacts: the ultimate
@@ -403,6 +413,8 @@ dj deckstream: keep in the pocket
 dj deckstream: 4 my babii girl feat juju bee
 dj deckstream: screwtape feat l-universe
 dj deckstream: life is good feat mos def
+dj deckstream: screwtape feat l-universe
+bahamedia: 3 tha hard way (dj deckstream remix)
 oasis: whatever (dj deckstream remix)
 the cardigans: carnival (dj deckstream remix)
 nujabes: shiki no uta (the brotet cover)
@@ -443,6 +455,8 @@ fat jon: tara
 truth enola: voicestress (feat de la soul)
 bobbi humphrey:  blacks and blues
 erick sermon: boy meets world
+erick sermon: breaker 1, breaker 2
+erick sermon: don't give up
 modern trash quartett: sun disturbance
 joao donato: amazon
 joao donato: little boat
@@ -466,3 +480,13 @@ jamal: fades em all
 jamal: keep it real
 heather b: steady rockin
 lowercase n: faded
+outkast: jazzy belle
+kazi and madlib: called your bluff
+kazi and madlib: a.v.e.r.a.g.e.
+count bass d: seven years
+todd rundgren: a dream goes on forever
+dj honda: what you expected (feat gangstarr)
+dj honda: straight talk from ny (feat grand puba, sadat x, wakeem)
+dj honda: hai! (feat keith murray and 50 grand)
+dj honda: for every day that goes by (feat rawcotiks)
+Tigerfist feat. Takbir Bashir: Stargazin' (Deckstream Remix)
