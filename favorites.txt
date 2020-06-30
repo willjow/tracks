@@ -51,9 +51,9 @@ robot orchestra:
 
 dj deckstream:
     * indelible memories
-
-monorisick:
+    * indelible memories 2
     * hydrothermal formation (sides a, b)
+    * naked mix
 
 madlib:
     * madlib medicine show no. 5
@@ -490,3 +490,7 @@ dj honda: straight talk from ny (feat grand puba, sadat x, wakeem)
 dj honda: hai! (feat keith murray and 50 grand)
 dj honda: for every day that goes by (feat rawcotiks)
 Tigerfist feat. Takbir Bashir: Stargazin' (Deckstream Remix)
+Lightheaded: Blink Of An Eye
+Lightheaded: Pure Thoughts
+Lightheaded: Lah Lah Land
+Lightheaded: Orientation
