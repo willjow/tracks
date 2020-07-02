@@ -10,26 +10,9 @@ Blazo:
 freddie joachim / qstn:
     * mellow orange vols 1-12 (these are hip-hop/jazz mixes)
 
-dj ameldabee: original samples vs hip hop beats 1-6
-    - hip hop beat selection is strong with this one... classics all around
-      although I think I prefer how mellow orange plays things out more
-    * 1 is p good
-    * 2 not as hype so far... only hype part seems to be the gang starr streak
-      starting halfway through (second half is like all gang starr???)
-    * 3 is pretty hype, but the short playtimes start to be apparent with
-      this one. on the other hand it has that sick transition from mobb deep to
-      masta ace
-    * 4 is just ok; limited hype; more jazz samples perhaps
-    * 5 also just ok; transitions are kind of meh and samples aren't as
-      prevalent
-    * 6 maybe better than 4 and 5; generally a good but not great mix
-
-dj skandal / le bee:
-    * pete rock vs jay dee rounds 1, 2
-
 robot orchestra:
     * radio juicy vol 102
-    ! elusive vol 138 which has been apparently deleted from the internet
+    ! [ elusive vol 138 which has been apparently deleted from the internet ]
         01.) Common x Robot Orchestra - The Sun God
         02.) Blu x Monk\' - The Soul Provider
         03.) J Dilla and Phat Kat x MNDSGN - Game Over
@@ -55,8 +38,37 @@ dj deckstream:
     * hydrothermal formation (sides a, b)
     * naked mix
 
-madlib:
-    * madlib medicine show no. 5
+dj fumiya:
+    (mixing isn't as hype as others, but track selection is good)
+    * jazz crystal -the best season-
+    * jazz crystal -winter-
+    * jazz crystal -winter II-
+    * jazz crystal -world of music-
+
+nujabes:
+    * tribe sampler vol 1 (sides a, b) (this isn't really hip hop; closer to
+      jazz)
+    * sweet sticky thing (sides a, b) (this is literally 70s music)
+    * good music cuisine - ristorante nujabes (preference to side b) (not
+      really sure how to classify this... maybe closer to old house?)
+
+dj skandal / dj ameldabee:
+    * hi tek vs madlib
+    * pete rock vs jay dee rounds 1, 2
+
+dj ameldabee: original samples vs hip hop beats 1-6
+    - hip hop beat selection is strong with this one... classics all around
+      although I think I prefer how mellow orange plays things out more
+    * 1 is p good
+    * 2 not as hype so far... only hype part seems to be the gang starr streak
+      starting halfway through (second half is like all gang starr???)
+    * 3 is pretty hype, but the short playtimes start to be apparent with
+      this one. on the other hand it has that sick transition from mobb deep to
+      masta ace
+    * 4 is just ok; limited hype; more jazz samples perhaps
+    * 5 also just ok; transitions are kind of meh and samples aren't as
+      prevalent
+    * 6 maybe better than 4 and 5; generally a good but not great mix
 
 jneiro jarel:
     * timeless vol 1
@@ -66,13 +78,6 @@ eddie ill and dl:
     * scenes from the underworld (tape 1, side b)
     * the time has come
     - (these have some pretty nice exclusive tracks)
-
-nujabes:
-    * tribe sampler vol 1 (sides a, b) (this isn't really hip hop; closer to
-      jazz)
-    * sweet sticky thing (sides a, b) (this is literally 70s music)
-    * good music cuisine - ristorante nujabes (preference to side b) (not
-      really sure how to classify this... maybe closer to old house?)
 
 dj crossphader:
     * for your listening pleasure
@@ -106,6 +111,9 @@ the hush brothers:
 
 ljones:
     * aero
+
+madlib:
+    * madlib medicine show no. 5
 
 ###############################################################################
 

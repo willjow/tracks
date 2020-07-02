@@ -23,6 +23,9 @@ F01/UMXL (magnetic north cold)
 F03/ESKO (magnetic north it'll work out)
 F04/UJSY (magnetic north la la la)
 
+# Misc
+retag pete rock vs jay dee album artists to be the djs
+
 
 # Download Queue:
     potential source for weird japanese stuff: muxiv.com
@@ -31,7 +34,6 @@ F04/UJSY (magnetic north la la la)
     another robot orchestra radio juicy - vol 138 (IMPOSSIBLE TO FIND???)
     levitatorz - live@somewhere
     dj fumiya - sweet crystal
-    rahze (monorisick) - rahze
 
     # Revisits
      -> French House ???
@@ -61,8 +63,13 @@ F04/UJSY (magnetic north la la la)
     jay-z: black album
 
     # Standard todo
+    charizma
+    eclipse 427 (what it is)
+    dj cam quartet
     abstract orchestra (madvillain)
+    stan getz (saudade vem correndo)
     jimmy smith and wes montgomery (mellow mood: low class conspiracy sample)
+    awon
     go through other mobb deep albums
     Big L (holdin it down)
     stereolab
@@ -133,6 +140,7 @@ F04/UJSY (magnetic north la la la)
     Kenn Starr
     Didi Crazzz
     Montefirori Cocktail
+    rene costy (scrabble)
     Rockwell Product Shop
     Pleasure Products
     JuicyJazz
