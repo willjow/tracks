@@ -29,6 +29,7 @@
 
 # Misc
     retag pete rock vs jay dee album artists to be the djs
+    verify encodings before moving to processed
 
 
 -------------------------------------------------------------------------------
