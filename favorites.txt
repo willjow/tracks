@@ -36,6 +36,9 @@ robot orchestra:
         17.) Aesop Rock x Grimm Doza x Philo - Babies With Guns
         18.) Dead Prez x ShunGu - Hip Hop
 
+budamunk:
+    * Buda Session sideA/B
+
 dj deckstream:
     * indelible memories
     * indelible memories 2
@@ -73,9 +76,8 @@ dj ameldabee: original samples vs hip hop beats 1-6
       this one. on the other hand it has that sick transition from mobb deep to
       masta ace
     * 4 is just ok; limited hype; more jazz samples perhaps
-    * 5 also just ok; transitions are kind of meh and samples aren't as
-      prevalent
-    * 6 maybe better than 4 and 5; generally a good but not great mix
+    * 5 pretty good
+    * 6 maybe better than 4 and 5; generally a good mix
 
 jneiro jarel:
     * timeless vol 1
@@ -236,8 +238,6 @@ atcq: 4 moms
 atcq: pad & pen
 atcq: busta's lament
 atcq: the love
-common: resurrection
-common: I used to love h.e.r.
 grap luva: rocking with elegance
 grap luva: heaven sent (off DJ Crossphader: another li groove)
 jay-z: feelin it
@@ -537,3 +537,6 @@ skillz: the nod factor
 skillz: va in the house
 skillz: doin' time in the cypha
 skillz: skillz vs shaqwan
+common: resurrection
+common: I used to love h.e.r.
+common: invocation
