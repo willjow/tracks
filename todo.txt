@@ -17,6 +17,7 @@
     blu & exile (full album replacements)
     cise star - adrift (replace)
     substantial - to this union a sun was born (full album replacement)
+    hi-teknologies (1, 2, 3) - replace with reencoded versions
     F09/QFZG (sound providers the field)
     F10/MJUT (sound providers j rocc radio promo)
     F04/PLKB (sound providers choc promo)
@@ -118,6 +119,7 @@ Download Queue:
 
 
 # Standard todo
+    Hocus Pocus
     flying lotus
     kondor
     binary star
@@ -254,7 +256,6 @@ Download Queue:
     Big Shug
     Flamingosis
     Crown City Rockers
-    Hocus Pocus
     Reks
     Masterminds
     Statik Selektah
