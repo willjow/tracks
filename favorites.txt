@@ -126,6 +126,20 @@ madlib:
 
 ###############################################################################
 
+# entire albums (a rare occasion)
+
+nujabes:
+    * hydeout productions 1st collection
+    * metaphorical music
+    * modal soul
+    * hydeout productions 2nd collection
+
+jazz liberatorz:
+    * clin d'oeil
+    * fruit of the past
+
+###############################################################################
+
 # beats/tracks
 j dilla: rare dilla track 12
 j dilla: c.i. master
@@ -510,10 +524,15 @@ dj honda: straight talk from ny (feat grand puba, sadat x, wakeem)
 dj honda: hai! (feat keith murray and 50 grand)
 dj honda: for every day that goes by (feat rawcotiks)
 Tigerfist feat. Takbir Bashir: Stargazin' (Deckstream Remix)
-Lightheaded: Blink Of An Eye
-Lightheaded: Pure Thoughts
-Lightheaded: Lah Lah Land
-Lightheaded: Orientation
+lightheaded: blink of an eye
+lightheaded: pure thoughts
+lightheaded: completion
+lightheaded: lah lah land
+lightheaded: orientation
+lightheaded: showcase
+lightheaded: short stories
+lightheaded: unconditional
+lightheaded: surprise cypher remix
 blue six: close to home
 blue six: sweeter love
 blue six: pure (remix)
