@@ -4,10 +4,10 @@
 ###############################################################################
 
 # dj mixes (these are roughly sorted by accessibility/favoritism)
-Blazo:
+blazo:
     * jazz format mixtape vol 1
 
-DJ Four, One, One:
+dj four, one, one:
     * jazz flava lesson 1, 2, 3
     ! [ jazz flava lesson 1 is RARE ]
 
@@ -37,7 +37,7 @@ robot orchestra:
         18.) Dead Prez x ShunGu - Hip Hop
 
 budamunk:
-    * Buda Session sideA/B
+    * buda session sidea/b
 
 dj deckstream:
     * indelible memories
@@ -126,7 +126,7 @@ madlib:
 
 ###############################################################################
 
-# entire albums (a rare occasion)
+# entire albums (a rare occurrence)
 
 nujabes:
     * hydeout productions 1st collection
@@ -170,6 +170,7 @@ asheru and blue black: elevator music
 mujo: flowman
 nomak: geishas in the days (shin ski remix)
 funky dl: billie holiday
+funky dl: say yeah
 funky dl: heart of faith
 funky dl: rock to her beat 2000
 funky dl: rock to the beat (remix)
@@ -448,6 +449,9 @@ dj deckstream: 4 my babii girl feat juju bee
 dj deckstream: screwtape feat l-universe
 dj deckstream: life is good feat mos def
 dj deckstream: screwtape feat l-universe
+rahze: summer time
+rahze: mon ame
+rahze: following the sun
 bahamedia: 3 tha hard way (dj deckstream remix)
 oasis: whatever (dj deckstream remix)
 the cardigans: carnival (dj deckstream remix)
@@ -556,6 +560,11 @@ skillz: the nod factor
 skillz: va in the house
 skillz: doin' time in the cypha
 skillz: skillz vs shaqwan
+skillz: call me crazy
 common: resurrection
 common: I used to love h.e.r.
 common: invocation
+walter wanderley: on my mind
+the quadraphonics: betcha if you check it out
+kid koala: skanky panky
+bullfrong: snakeskin

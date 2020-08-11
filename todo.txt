@@ -32,6 +32,10 @@
         champloo: impression - full replacement
         champloo: masta - full replacement
         champloo: playlist - full replacement
+    uyama hiroto:
+        freeform jazz full replacement
+        a son of the son full replacement
+        freedom of the son full replacement
     One Plus One (nas greatest guest features)
     el fudge - chronic irresponsibility (redownloaded)
     madlib - shades of blue (replace with redownload of full album)
@@ -41,6 +45,9 @@
     substantial - to this union a sun was born (full album replacement)
     hi-teknologies (1, 2, 3) - replace with reencoded versions
     dj honda - replace everything
+    smoking section vol 1 (radio juicy) - full replacement
+    budamunk: buda session, loungin - full replacements
+
     F09/QFZG (sound providers the field)
     F10/MJUT (sound providers j rocc radio promo)
     F04/PLKB (sound providers choc promo)
@@ -110,6 +117,10 @@ Download Queue:
 
     dj fumiya - sweet crystal
     levitatorz - live@somewhere
+    joe styles:
+        melodical era (joe stylin)
+        cognac n chronic
+        lost budamunk files for joe styles
 
 
 # Revisits
@@ -142,6 +153,9 @@ Download Queue:
 
 
 # Standard todo
+    robot orchestra
+    budamunk
+    stanley turrentine (vera cruz - gilberto with turrentine)
     Hocus Pocus
     flying lotus
     kondor
@@ -278,10 +292,11 @@ Download Queue:
     Jurassic 5
     Big Shug
     Flamingosis
-    Crown City Rockers
+    Crown City Rockers / Mission
     Reks
     Masterminds
     Statik Selektah
+    Libro
     Slick Rick
     Slim the Chemist
     Mujo
