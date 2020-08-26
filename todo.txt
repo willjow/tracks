@@ -1,3 +1,8 @@
+# Meta:
+    backup and move all your peripheral school files for more space
+
+
+-------------------------------------------------------------------------------
 # whosampled contributions:
     gap mangione: boys with toys -> people under the stairs: youth explosion
 
@@ -5,85 +10,14 @@
 # Tentative (Downloaded but have to sort through):
     jazz crystal -winter- has some weird skipping in in himuki - hold on
     process dj fumiya winter ii youtube dls (get around the fade outs with tistory dls?)
-    sort through rahze tracks
     process eddie ill/dl the time has come yt dls
 
 
 # Library Modifications:
-    nujabes:
-        Hydeout Productions 1st collection - retag don't even try it to be track 2
-        metaphorical music - full album replacement
-        modal soul - full album replacement
-        spiritual state - full album replacement
-            F00/AATH (dawn on the side)
-            F01/RQIQ (rainyway back home)
-            F02/YKJO (island)
-            F03/YKCA (color of autumn)
-            F05/MSUO (city lights)
-            F06/SFPA (waiting for the clouds)
-            F06/YULY (sky is tumbling)
-            F09/SZLY (gone are the days)
-            F09/VBBZ (yes)
-            F11/PLMQ (fellows)
-            F12/NXCF (Spiral)
-            F13/SHYX (Prayer)
-        dimention ball tracks volume 1 - full replacement
-        champloo: departure - full replacement (missing stay)
-        champloo: impression - full replacement
-        champloo: masta - full replacement
-        champloo: playlist - full replacement
-    uyama hiroto:
-        freeform jazz full replacement
-        a son of the son full replacement
-        freedom of the son full replacement
-    One Plus One (nas greatest guest features)
-    el fudge - chronic irresponsibility (redownloaded)
-    madlib - shades of blue (replace with redownload of full album)
-    phoniks remixes (full album replacements)
-    blu & exile (full album replacements)
-    cise star - adrift (replace)
-    substantial - to this union a sun was born (full album replacement)
-    hi-teknologies (1, 2, 3) - replace with reencoded versions
-    dj honda - replace everything
-    smoking section vol 1 (radio juicy) - full replacement
-    budamunk: buda session, loungin - full replacements
-    think twice: rock to this beat full album replacement
-    the jonesz:
-        season one full album replacement
-        part time shine
-    jon mcxro: fifth of never full album replacement
-    slim the chemist - silence ep replacement
-    surreal and the sound providers - true indeed replacement
-    sound providers:
-        an evening with the sound providers full replacement
-        true indeed full replacement
-            F00/XOAY they call me
-            F02/EQEX push on
-            F02/VJRP walk in the park
-            F02/XKYB the rundown
-            F04/HJFK life & rhymes
-            F05/CXAA true indeed
-            F05/TJMB just getting started
-            F08/VQNZ gifted
-            F12/ELEF night to remember
-            F12/OOIZ truth be told
-        looking backwards
-            F09/QFZG (sound providers the field)
-            F10/MJUT (sound providers j rocc radio promo)
-            F04/PLKB (sound providers choc promo)
-            F00/MJMD (sound providers that's it)
-
-    F08/CXTA (atmosphere 4:30 AM)
-    F13/VTJR (moods love is real)
-    F01/REDO (magnetic north home:word)
-    F01/UMXL (magnetic north cold)
-    F03/ESKO (magnetic north it'll work out)
-    F04/UJSY (magnetic north la la la)
 
 
 # Misc
     retag pete rock vs jay dee album artists to be the djs
-    verify encodings before moving to processed
 
 
 -------------------------------------------------------------------------------
@@ -174,11 +108,6 @@ Download Queue:
     GO THROUGH ALL THE GOOD STUFF FEATURED IN AMELDABEE'S MIXES
     (these mixes also show that you need to revisit a few artists...)
 
-    slum village:
-        villa manifesto
-        evolution
-        yes!
-
     jay-z: black album
 
     MADLIB (check the missing stuff on producto illicito)
@@ -187,6 +116,8 @@ Download Queue:
 
 
 # Standard todo
+    john hicks
+    chali 2na
     go through tracks on 101licious youtube channel
     muro (https://www.discogs.com/artist/9965-Muro)
     dj sarasa
@@ -241,7 +172,6 @@ Download Queue:
     (track down a compilation of 9th wonder beats?)
     john klemmer (free soul)
     soulchef
-    george benson (give me the night)
     oddisee
     Nas - Life's a bitch...
     BIG - e.g., everyday struggle
@@ -338,11 +268,14 @@ Download Queue:
     tigerfirst (stargazin, return 2000) [RARE]
     jazzy sport (https://www.discogs.com/label/43687-Jazzy-Sport)
 
+
+# Questionable todo
+    shinee (ex. 1 of 1: don't stop, don't let me go)
+
+
 # Songs:
     yesterday - atmosphere
     best day - atmosphere
-    problems - j cole
     airport bar
-    universal magnetic - mos def
     under pressure - logic (second beat)
     welcome back - mase
