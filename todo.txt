@@ -14,6 +14,7 @@
 
 
 # Library Modifications:
+    petestrumentals replacements
 
 
 # Misc
@@ -117,6 +118,9 @@ Download Queue:
 
 
 # Standard todo
+    Pharcyde
+    robert glasper
+    roddy rod
     surreal
     john hicks
     chali 2na
@@ -143,6 +147,7 @@ Download Queue:
     zetton
     zo!
     charizma
+    j live
     eclipse 427 (what it is)
     dj cam quartet
     dj cam
@@ -203,7 +208,6 @@ Download Queue:
         https://soundcloud.com/urbanwaves/tajima-hal-natural-elements
         https://hermitcityrecordings.bandcamp.com/album/loophole-in-the-game-2
         https://soundcloud.com/houseofage/matamata-kanomakersupple
-    Pharcyde
     UGK (esp. Ridin Dirty)
     Homeliss Derilex
     Tha Dogg Pound
