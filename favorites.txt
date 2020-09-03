@@ -142,7 +142,9 @@ dela:
     * atmosphere airlines vol 1
     * atmosphere airlines vol 2
     * changes of atmosphere
-    * the robert glasper beat tape
+
+question/freddie joachim
+    * study guide
 
 ###############################################################################
 
@@ -278,6 +280,7 @@ pete rock: a little soul
 pete rock: something funky
 pete rock: for the people
 pete rock: smooth sailing
+pete rock: take the d train
 pete rock: what you waiting for
 pete rock: everyman
 pete rock: blah uno
@@ -609,3 +612,5 @@ dela: changes of atmosphere feat. supastition
 dela: kiss
 dela: praise & praise
 dela: lucy's&looseleafs feat. blu
+dela: meemee
+dela: 5 am
