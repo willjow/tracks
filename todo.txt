@@ -5,6 +5,7 @@
 -------------------------------------------------------------------------------
 # whosampled contributions:
     gap mangione: boys with toys -> people under the stairs: youth explosion
+    gap mangione: graduate medly -> where I'm from
 
 
 # Tentative (Downloaded but have to sort through):
@@ -117,6 +118,8 @@ Download Queue:
 
 
 # Standard todo
+    robot orchestra
+    son of ran
     Pharcyde
     robert glasper
     roddy rod
@@ -126,7 +129,6 @@ Download Queue:
     go through tracks on 101licious youtube channel
     muro (https://www.discogs.com/artist/9965-Muro)
     dj sarasa
-    robot orchestra
     stanley turrentine (vera cruz - gilberto with turrentine)
     Hocus Pocus
     flying lotus
@@ -273,6 +275,7 @@ Download Queue:
     tigerfirst (stargazin, return 2000) [RARE]
     jazzy sport (https://www.discogs.com/label/43687-Jazzy-Sport)
     in ya mellow tone series
+    aphex twin
 
 
 # Questionable todo
