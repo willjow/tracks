@@ -1,11 +1,15 @@
 # software?
 lmms
+ardour
 
 
 # beat ideas
-* charlie biddle/oliver jones - all the things you are (4:12 - 4:25); see if this repeats anywhere else
-                              (wow this has been sampled a lot... also around 5:54 till the end)
-                              - maybe try another one from these guys?
+* caesar frazier: I got to have your love
+
+* charlie biddle/oliver jones: all the things you are (4:12 - 4:25)
+    - see if this repeats anywhere else
+      (wow this has been sampled a lot... also around 5:54 till the end)
+    - maybe try another one from these guys?
 
 * joao donato - samba de orfeu (2:40 to 2:46 / ending loop in general)
     - rip, apparently beaten to the punch by j dilla in "to the zz zz ah you

@@ -151,6 +151,19 @@ question/freddie joachim
 # beats/tracks
 j dilla: rare dilla track 12
 j dilla: c.i. master
+j dilla: another batch track 7
+j dilla: another batch track 12
+j dilla: another batch track 17
+j dilla: another batch track 24
+j dilla: another batch track 25
+j dilla: another batch track 35
+j dilla: dimensions of dilla track 14
+j dilla: dimensions of dilla track 29
+j dilla: dimensions of dilla track 37
+j dilla: dimensions of dilla track 40
+j dilla: dimensions of dilla track 41
+j dilla: king of beats track 19
+j dilla: king of beats track 21
 consequence: rock n roll
 janet jackson: got til it's gone (ummah jay dee mix)
 monorisick / substantial: home sweet home
@@ -161,27 +174,41 @@ jazz dialogue: planlos (philanthrope remix)
 atcq: 1nce again (flofilz remix)
 mic geronimo: masta i.c. (wuntwo and flofilz remix)
 slum village: the look of love (flofilz remix)
+slum village: getdismoney (flofilz remix)
 nas: no idea's original (flofilz remix)
 das efx: real hip hop (flofilz, slim the chemist remix)
 flofilz: quintal
+flofilz: coastline
 keith murray: the rhyme (j dilla remix)
 son of ran: as long as there's you (freddie joachim remix)
+nice & smooth: blazing hot (freddie joachim remix)
 himuki: hold on (freddie joachim remix v.2)
+freddie joachim: matter of time feat surreal
 freddie joachim: matter of time feat surreal (remix)
 freddie joachim: sauced
 freddie joachim: arruga de agua remix
 floetry: supastar feat common (freddie joachim remix)
 floetry: floetic
-ini: fakin jax (actually most of this album is quite good)
+ini: no more words
+ini: think twice
+ini: square one
+ini: the life I live
+ini: fakin jax
+ini: fakin jax (rude youth remix)
+ini: microphone wanderlust
 nas: if I ruled the world (freddie joachim remix)
+nas: nas is like
 nas: nas is like (nohabeats remix)
+nas: one love (funky dl remix)
 large professor: the lp
 asheru and blue black: trackrunners
 asheru and blue black: smiley
 asheru and blue black: elevator music
 mujo: flowman
 nomak: geishas in the days (shin ski remix)
+funky dl: if I had a day to live
 funky dl: billie holiday
+funky dl: london convention (not 4 sale remix)
 funky dl: say yeah
 funky dl: heart of faith
 funky dl: rock to her beat 2000
@@ -193,6 +220,7 @@ funky dl: ode to nujabes
 funky dl: takings of tokyo
 funky dl: hamamatsu timeless
 funky dl: nectars of nagoya
+funky dl: when she floats
 funky dl: the boy with no name remix
 funky dl: when she floats
 funky dl: find a message
@@ -215,12 +243,21 @@ nujabes: kujaku
 nujabes: flowers
 nujabes: highs to lows remix
 nujabes: reflection eternal
+nujabes: feather
+nujabes: eclipse
 nujabes: lady brown
-nujabes: sky is tumbling
+nujabes: filo
+nujabes: sky is falling
 nujabes: counting stars
+nujabes: old light (93 million miles away remix)
+nujabes: after hanabi
+nujabes: sky is tumbling
 nujabes: city lights
 nujabes: yes
 nujabes: thank you feat. apani b (uyama hiroto remix)
+nujabes: battlecry
+nujabes: 1st samurai
+nujabes: psychological counterpoint
 force of nature: just forget
 nitsua: recreating the sky
 king most: sun fran to tokyo
@@ -238,15 +275,22 @@ DOOM: genie in a bottle (my favorite ladies grip grand remix)
 DOOM: project jazz
 DOOM: the mic sounds nice
 DOOM: 3214
+DOOM: absolutely
+madlib & DOOM: avalanche
 science of life: yikes feat DOOM
 danger DOOM: el chupa nibre
 danger DOOM: sofa king
 divine mind: centerstage
 mono:massive: massive
-common: I used to love her (pat d remix)
+mono:massive: somewhat
+14?: dreamland feat. cise starr, fayya
 marcus d: trophy ft blu
+marcus d: keep running feat. fearce will
+marcus d: earth angel feat. cise star
+marcus d: elevator feat. art
 marcus d: lost memories
 blackalicious: make you feel that way
+five deez: plazma avenue
 billa qause: keep on feat j.melik instrumental
 self scientific: love bird (khalil's theme)
 self scientific: return
@@ -276,6 +320,7 @@ j rawls: so fly
 j rawls: heart throb
 lone catalysts: due process
 lone catalysts: ayanna monet
+3582: yesterday (35 mix)
 pete rock: tru master
 pete rock: a little soul
 pete rock: something funky
@@ -290,7 +335,6 @@ pete rock: I wish
 9th wonder / pete rock: oh yeah
 black star: respiration (flying high remix - pete rock)
 rob-o: so many rappers
-ini: fakin jax (rude youth remix)
 dedi baby pah / pete rock: everyman for himself
 rob-o: mention me feat meccalicious
 mack wilds: art of fallin
@@ -318,13 +362,17 @@ shinsight trio: heart (shin-ski's restless heart remix)
 shinsight trio: peace
 shin-ski: till the day we die
 shin-ski: peace of mind feat melodee
-shin-ski: rigel
-shin-ski: aldebaran
+shin-ski: fomalhaut
 shin-ski: deneb
+shin-ski: aldebaran
+shin-ski: altair
+shin-ski: rigel
+shin-ski: sirius
 shin-ski: what makes the world go around
 shin-ski: lost
 melodee: can't live without you
 dwele: a.n.g.e.l. (slum village remix)
+slakah the beatchild: get down right
 slakah the beatchild: enjoy ya self v2
 slakah the beatchild: macheeto
 slakah the beatchild: feel that music
@@ -335,6 +383,7 @@ sinitus tempo: bliss
 sinitus tempo: clipped wings
 slowy / 12vince: hitzerot
 slowy / 12vince: die nassrasur des dreiecks
+slowy / flofilz / 12vince: showdown
 slum village: fantastic
 slum village: the look of love
 slum village: estimate
@@ -343,6 +392,7 @@ slum village: players
 slum village: the look of love (remix)
 J-88: the look of love (pt. 2)
 slum village: climax
+slum village: ez up (satrumentalz remix)
 busta rhymes: ill vibe (funky dl remix)
 busta rhymes: ill vibe (jay dee remix)
 smif-n-wessun: bucktown
@@ -375,6 +425,7 @@ surreal and the sound providers: walk in the park
 surreal and the sound providers: they call me
 surreal and the sound providers: life & rhymes
 little indian: one little indian (tajima hal remix) aka smokin in a tree
+little indian: one little indian (j dilla remix)
 reflection eternal: 2000 seasons
 reflection eternal: the blast
 atcq: got it going on (tom misch remix)
@@ -384,9 +435,11 @@ uyama hiroto: vision eyes feat golden boy
 uyama hiroto: relax your mind feat pase rock
 uyama hiroto: soul of freedom feat cise starr
 uyama hiroto: spacemountain
+pase rock: it's about time
 vagabond maurice: lethal lunacy
 vagabond maurice: kimchi (pt 2) / the morning star
 vagabond maurice: kame sennin
+cyne: paradise
 vanilla: ajfa
 vanilla: give you everything
 vanilla: wishiknew
@@ -406,12 +459,13 @@ artifacts: the ultimate
 lsk feat dwele: hate or love (j dilla remix)
 jamiroquai: black capricorn day (jay dee remix)
 das efx: microphone master (j dilla remix)
-mos def: tinseltown to the boogiedown (ali shaheed remix)
-medina green: crosstown beef feat mos def
 kev brown: hennessey pt. 1
 kev brown: the random joint
+kev brown: the marvelous joint
 kev brown: life's a gamble
 kev brown: lord help me ft. eye-q & cy-young
+kev brown: beat tape #2 track 25
+kev brown: nightstalkers
 little brother: speed
 little brother: the yo-yo
 little brother: shorty on the lookout (esp. the beat change at the end)
@@ -422,11 +476,28 @@ little brother: war
 little brother: watch me
 noreaga: misery needs company (madlib remix)
 big pun: firewater (madlib remix)
+pharoahe monch: the mayor (madlib remix)
 charizma: my world premiere (madlib remix)
 madlib: real days
 oh no: every section
+med: special
 med: nightlife
+diverse: ain't right
 quasimoto: the exclusive
+quasimoto: microphone mathematics
+quasimoto: basic instinct
+quasimoto: low class conspiracy
+quasimoto: real eyes
+quasimoto: bluffin
+quasimoto: mhb's
+quasimoto: put a curse on you
+quasimoto: green power
+quasimoto: discipline 99 pt. 1
+quasimoto: planned attack
+quasimoto: green power (original version)
+quasimoto: microphone mathematisc (remix)
+quasimoto: closer (feat. madvillain)
+quasimoto: the exclusive (feat. MED)
 mobb deep: shook ones pt 2
 the creators: the music
 the creators: that's my word
@@ -434,6 +505,9 @@ mos def: love
 mos def: ms fat booty
 mos def: mathematics
 mos def: universal magnetic
+mos def: tinseltown to the boogiedown (ali shaheed remix)
+mos def: tinseltown to the boogiedown (pete rock remix)
+mos def: auditorium
 das efx: real hip hop
 declaime: exclaim the name
 declaime: uplift da opposite (feat taboo the sweetest)
@@ -444,6 +518,8 @@ edo g: boston
 busta rhymes: ill vibe
 wu tang clan: wu tang clan aint nuthing ta f wit
 ghostface: wildflower
+one be lo: rocketship (mad jazzy remix)
+melody johnson: melody (mad smoky remix)
 jazz spastiks: dumb! remix feat yesh
 jazz spastiks: frequency remix feat moka only
 jazz spastiks: frequency feat moka only
@@ -459,19 +535,21 @@ hi tek: the sun god
 hi tek: breakin' bread
 mood: karma
 gift of gab: moonshine
+globetroddas: picture perfect
 masta ace: good ol love
 emc: feel it
 lems: afternoon where I am
 lems: the recipe
 lems: the vacay
 lems: [en]strumental
-dj tonk: now and forever
+dj tonk: now and forever (dj yutaka remix)
 walter wanderley: moondreams
 dj deckstream: keep in the pocket
 dj deckstream: 4 my babii girl feat juju bee
 dj deckstream: screwtape feat l-universe
 dj deckstream: life is good feat mos def
 dj deckstream: screwtape feat l-universe
+dj deckstream: creeper
 rahze: summer time
 rahze: mon ame
 rahze: following the sun
@@ -483,6 +561,7 @@ koffee brown: after party
 choclair: 21 years
 redman: what eva man
 redman, method man: do what you feel
+krs one: a friend
 afu ra: voodoo chile
 gang starr: deadly habitz
 gang starr: skills
@@ -513,7 +592,11 @@ vince guaraldi: zelão
 rakim: when I'm flowin
 jazz liberatorz: the process (feat apani b fly)
 fat jon: tara
+fat jon: here and there
+tsutchi: process
+tsutchi: deeper than words
 truth enola: voicestress (feat de la soul)
+de la soul: stakes is high (j dilla remix)
 bobbi humphrey:  blacks and blues
 erick sermon: boy meets world
 erick sermon: breaker 1, breaker 2
@@ -576,6 +659,8 @@ blu & exile: another day
 blu & exile: things we say
 blu & exile: stress of the chest
 blu & exile: spread sunshine
+blu: soul provider (kt partk remix)
+blu: soul provider (bhonstro remix)
 bahamadia: uknowhowwedu
 bahamadia: one-4-teen
 2pac: I get around
@@ -589,9 +674,6 @@ skillz: va in the house
 skillz: doin' time in the cypha
 skillz: skillz vs shaqwan
 skillz: call me crazy
-common: resurrection
-common: I used to love h.e.r.
-common: invocation
 walter wanderley: on my mind
 the quadraphonics: betcha if you check it out
 kid koala: skanky panky
@@ -606,6 +688,7 @@ joe styles: alright feat. chadrok
 joe styles: air raid prod. emphasis
 joe styles: al green
 john hicks: after the morning
+letsuo: sweet baby rays
 saian supa crew: x raisons
 michael wycoff: looking up to you
 dela: let me know feat. apani b fly
@@ -630,6 +713,8 @@ gota yashiki: european comfort
 gota yashiki: someday
 gota yashiki: if I could
 george benson: weekend in la
+caesar frazier: I got to have your love
+caesar frazier: sweet children
 notorious big: machine gun funk
 notorious big: everyday struggle
 notorious big: fuck you tonight feat. r. kelly
@@ -637,3 +722,28 @@ notorious big: going back to cali
 notorious big: ten crack commandments
 notorious big / redman / method man: rap phenomenon
 notorious big: who shot ya
+satrumentalz: mystical
+satrumentalz: soulside
+satrumentalz: abstract
+hexsagon, david casto, origenbeats: dont sweet it
+no i.d.: fate or destiny
+no i.d.: sky's the limit (inf mix)
+no i.d.: sky's the limit
+common: I used to love her (pat d remix)
+common: 6th sense (pat d remix)
+common: invocation
+common: all night long (feat. erykah badu)
+common: 1'2 many...
+common: stolen moments (part iii)
+common: reminding me (of sef)
+common: heat
+common: doinit
+common: the questions
+common: 6th sense
+common: geto heaven part two
+common: a song for assata
+common: real people
+common: resurrection
+common: I used to love h.e.r.
+common: book of life
+dj ezasscul: one take
