@@ -8,11 +8,15 @@ blazo:
     * jazz format mixtape vol 1
 
 dj four, one, one:
-    * jazz flava lesson 1, 2, 3
-    ! [ jazz flava lesson 1 is RARE ]
+    * jazz flava lesson 2, 3
+    ! [ jazz flava lesson 1 is RARE, but probably belongs here too ]
 
 freddie joachim / qstn:
     * mellow orange vols 1-12 (these are hip-hop/jazz mixes)
+
+dj tonk:
+    * 100% dope hiphop brend
+    ! [ volumes 2 and 3 are RARE, but probably belong here too ]
 
 robot orchestra:
     * radio juicy vol 102
@@ -44,9 +48,6 @@ dj deckstream:
     * indelible memories 2
     * hydrothermal formation (sides a, b)
     * naked mix
-
-dj tonk:
-    * 100% dope hiphop brend
 
 dj fumiya:
     (mixing isn't as hype as others, but track selection is good)
@@ -141,6 +142,9 @@ jazz liberatorz:
     * clin d'oeil
     * fruit of the past
 
+freddie joachim:
+    * cougar
+
 dela:
     * atmosphere airlines vol 1
     * atmosphere airlines vol 2
@@ -188,8 +192,11 @@ nice & smooth: blazing hot (freddie joachim remix)
 himuki: hold on (freddie joachim remix v.2)
 freddie joachim: matter of time feat surreal
 freddie joachim: matter of time feat surreal (remix)
+freddie joachim: marie feat choice37 (remix)
 freddie joachim: sauced
 freddie joachim: arruga de agua remix
+freddie joachim: hear it from you feat. lauren santiago & jacewon (beat 2)
+submotion orchestra: all yours (freddie joachim remix deux)
 floetry: supastar feat common (freddie joachim remix)
 floetry: floetic
 ini: no more words
@@ -317,6 +324,7 @@ grap luva: rocking with elegance
 grap luva: heaven sent (off DJ Crossphader: another li groove)
 jay-z: feelin it
 jay-z: feelin it (phoniks remix)
+jay-z: so ghetto
 j rawls: birds of a feather
 j rawls: ohio players
 j rawls: so fly
@@ -335,7 +343,7 @@ pete rock: everyman
 pete rock: blah uno
 pete rock: press rewind
 pete rock: I wish
-9th wonder / pete rock: oh yeah
+9th wonder / pete rock: oh yeah (AKA kev brown: can't stay away feat. LB)
 black star: respiration (flying high remix - pete rock)
 rob-o: so many rappers
 dedi baby pah / pete rock: everyman for himself
@@ -349,6 +357,7 @@ pete rock / cl cmooth: searching
 pete rock / cl cmooth: take you there (foundation mix)
 pete rock / cl smooth: take you there (jazz remix) (unknown remixer)
 presto: bring it live
+presto: spring ft. captions
 raw produce: the wack mc
 the roots: section
 the roots: listen to this (the roots remix)
@@ -431,6 +440,7 @@ little indian: one little indian (tajima hal remix) aka smokin in a tree
 little indian: one little indian (j dilla remix)
 reflection eternal: 2000 seasons
 reflection eternal: the blast
+reflection eternal: move somethin (freddie joachim remix)
 atcq: got it going on (tom misch remix)
 urban thermo dynamics: my kung-fu
 myk & shirosky: 5 percenter
@@ -443,6 +453,7 @@ vagabond maurice: lethal lunacy
 vagabond maurice: kimchi (pt 2) / the morning star
 vagabond maurice: kame sennin
 cyne: paradise
+cyne: midas
 vanilla: ajfa
 vanilla: give you everything
 vanilla: wishiknew
@@ -477,6 +488,7 @@ little brother: away from me
 little brother: nobody but you
 little brother: war
 little brother: watch me
+little brother: the way you do it (freddie joachim remix)
 noreaga: misery needs company (madlib remix)
 big pun: firewater (madlib remix)
 pharoahe monch: the mayor (madlib remix)
@@ -507,6 +519,7 @@ the creators: that's my word
 mos def: love
 mos def: ms fat booty
 mos def: mathematics
+mos def: mathematics (freddie joachim remix)
 mos def: universal magnetic
 mos def: tinseltown to the boogiedown (ali shaheed remix)
 mos def: tinseltown to the boogiedown (pete rock remix)
@@ -515,7 +528,6 @@ das efx: real hip hop
 declaime: exclaim the name
 declaime: uplift da opposite (feat taboo the sweetest)
 declaime / flying lotus: keep it moving
-common: the bitch in you (pete rock remix)
 mary j blige: family affair (pete rock remix)
 edo g: boston
 busta rhymes: ill vibe
@@ -565,6 +577,8 @@ koffee brown: after party
 choclair: 21 years
 redman: what eva man
 redman, method man: do what you feel
+redman, method man: how high
+redman, method man: how high (freddie joachim remix)
 krs one: a friend
 afu ra: voodoo chile
 gang starr: deadly habitz
@@ -608,11 +622,13 @@ erick sermon: don't give up
 erick sermon: do your thing
 erick sermon: me and those dreamin eyes of mine (def squad remix)
 modern trash quartett: sun disturbance
+joao donato: tim dom dom
 joao donato: amazon
 joao donato: little boat
 joao donato: sugarcane breeze
 joao donato: naquela base 1965
 joao donato: naquela base 1988
+joao donato: lua dourada 1988
 grand puba: reality check (feat sarah martinez)
 grand puba: keep on
 grand puba: I like it
@@ -665,6 +681,7 @@ blu & exile: stress of the chest
 blu & exile: spread sunshine
 blu: soul provider (kt partk remix)
 blu: soul provider (bhonstro remix)
+blu: cadillac steeze
 bahamadia: uknowhowwedu
 bahamadia: one-4-teen
 2pac: I get around
@@ -717,6 +734,25 @@ gota yashiki: european comfort
 gota yashiki: someday
 gota yashiki: if I could
 george benson: weekend in la
+george benson: livin inside your love
+george benson: before you go
+george benson: love x love
+george benson: the borgia stick
+george benson: breezin
+george benson: affirmation
+george benson: gonna love you more
+george benson: valdez in the country
+george benson: the changing world
+george benson: face it boy it's over
+george benson: my cherie amour
+george benson: I remember wes
+george benson: sunny
+george benson quartet: willow weep for me
+george benson quartet: hello birdie
+george benson quartet: eternally
+george benson quartet: j.h. bossa nova
+george benson quartet: sideman
+george benson quartet: minor chant
 caesar frazier: I got to have your love
 caesar frazier: sweet children
 caesar frazier: walking on the side
@@ -735,6 +771,8 @@ satrumentalz: mystical
 satrumentalz: soulside
 satrumentalz: abstract
 hexsagon, david casto, origenbeats: dont sweet it
+daniel east, eledobleve: solo importa el rap
+satrumentalz, dave beel: tras la busqueda [beemix!]
 no i.d.: fate or destiny
 no i.d.: sky's the limit (inf mix)
 no i.d.: sky's the limit
@@ -755,4 +793,14 @@ common: 6th sense
 common: geto heaven part two
 common: a song for assata
 common: real people
+common: the bitch in you (pete rock remix)
 dj ezasscul: one take
+camp lo: black nastaljack (noel zancanella remix)
+mr j medeiros: strangers
+mr j medeiros: change (feat. strange fruit, rez)
+mr j medeiros: money (feat. pigeon john, dj vajra)
+mr j medeiros: silent earth (ohmega watts remix)
+mr j medeiros: two light beams
+jill scott: love rain (head nod joachim remix)
+cyril hahn: perfect form (kaytranada remix)
+mary j blige: I can love you (kaytranada flip)
