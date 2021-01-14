@@ -25,6 +25,8 @@ ardour
 
 * joao donato: sem legenda
 
+* joao donato: outra vez
+
 * joachim style chords + dilla style bass
     - boom style ticking percussion?
     - lots of room for playing with solos/scratches/remix/lyric chops the way
@@ -42,3 +44,5 @@ ardour
 * tatsuro yamashita: pocket music track 7
 
 * brokenwood mysteries 9/19/20 9pm pst (???)
+
+* alundra ost the village of inoa
