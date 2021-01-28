@@ -157,6 +157,7 @@ Download Queue:
     robot orchestra
     tom misch (e.g., bandcamp releases)
     son of ran
+    hexsagon (https://www.discogs.com/artist/872594-Hexsagon)
     9th Wonder
     roddy rod
     surreal
@@ -305,6 +306,7 @@ Download Queue:
     jazzy sport (https://www.discogs.com/label/43687-Jazzy-Sport)
     in ya mellow tone series
     aphex twin
+    jamiroquai
 
 
 # Questionable todo

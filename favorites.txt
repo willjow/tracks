@@ -156,8 +156,11 @@ question/freddie joachim
 DOOM:
     * MF DOOM remixed by tom caruana
 
-Joao Donato:
+joao donato:
     * e lala lay-e
+
+blue six:
+    * beautiful tomorrow
 
 ###############################################################################
 
@@ -586,6 +589,7 @@ lems: [en]strumental
 dj tonk: now and forever (dj yutaka remix)
 dj tonk: all night (feat. procussions)
 walter wanderley: moondreams
+walter wanderley: on my mind
 dj deckstream: keep in the pocket
 dj deckstream: 4 my babii girl feat juju bee
 dj deckstream: screwtape feat l-universe
@@ -617,11 +621,11 @@ d'angelo: me and those dreamin eyes of mine
 kenny dope: la malanga
 4hero: won't you open up your senses
 madlib: young warrior
-krayz drayz: I like it
-noname: sunny duet
+krazy drayz: I like it
+noname: sunny duet w/themind
 buckshot lefonque: music evolution (dj premier version)
 black moon: niguz talk shit
-black moon: I got cha opin (' remix)
+black moon: I got cha opin (da beatminerz remix)
 atcq: stressed out (phoniks remix)
 atcq: 1nce again (phoniks remix)
 artifacts: c'mon wit da git down (phoniks remix)
@@ -645,6 +649,7 @@ tsutchi: process
 tsutchi: deeper than words
 truth enola: voicestress (feat de la soul)
 de la soul: stakes is high (j dilla remix)
+black eyed peas: fallin up
 bobbi humphrey:  blacks and blues
 erick sermon: boy meets world
 erick sermon: breaker 1, breaker 2
@@ -656,12 +661,13 @@ joao donato: tim dom dom
 joao donato: amazon
 joao donato: little boat
 joao donato: sugarcane breeze
-joao donato: naquela base 1965
-joao donato: naquela base 1988
-joao donato: lua dourada 1988
+joao donato: naquela base (1965)
+joao donato: naquela base (1988)
+joao donato: lua dourada (1988)
+joao donato: e lala lay-e
 joao donato: o amor em paz
-joao donato: ss dango samba
-joao donato: o morro nco tem vez
+joao donato: so dango samba
+joao donato: o morro nao tem vez
 joao donato: e menina
 grand puba: reality check (feat sarah martinez)
 grand puba: keep on
@@ -670,7 +676,7 @@ supernatural: another hip hop love song
 supernatural: not that way
 supernatural: internationally known
 magnetic north: la la la (re:plus remix)
-re:plus: dec 27
+re:plus: dec.27
 re:plus: sol (feat cise star)
 re:plus: solitude
 re:plus: headline feat. cise star
@@ -697,7 +703,7 @@ dj honda: straight talk from ny (feat grand puba, sadat x, wakeem)
 dj honda: hai! (feat keith murray and 50 grand)
 dj honda: for every day that goes by (feat rawcotiks)
 dj honda: cold blooded feat grandmaster melle mel
-tigerfist feat. takbir bashir: stargazin' (Deckstream Remix)
+tigerfist feat. takbir bashir: stargazin' (deckstream remix)
 lightheaded: blink of an eye
 lightheaded: pure thoughts
 lightheaded: completion
@@ -716,7 +722,7 @@ born jamericans: send my love
 binary star: rivers run wild (phoniks remix)
 blu & exile: another day
 blu & exile: things we say
-blu & exile: stress of the chest
+blu & exile: stress off the chest
 blu & exile: spread sunshine
 blu: soul provider (kt partk remix)
 blu: soul provider (bhonstro remix)
@@ -734,10 +740,9 @@ skillz: va in the house
 skillz: doin' time in the cypha
 skillz: skillz vs shaqwan
 skillz: call me crazy
-walter wanderley: on my mind
 the quadraphonics: betcha if you check it out
 kid koala: skanky panky
-bullfrong: snakeskin
+bullfrog: snakeskin
 animate objects: walks for hipsters
 budamunk & joe styles: medicine
 budamunk & joe styles: hot shit
@@ -813,7 +818,7 @@ satrumentalz: soulside
 satrumentalz: abstract
 hexsagon, david casto, origenbeats: dont sweet it
 daniel east, eledobleve: solo importa el rap
-satrumentalz, dave beel: tras la busqueda [beemix!]
+satrumentalz, dave bee!: tras la busqueda [beemix!]
 no i.d.: fate or destiny
 no i.d.: sky's the limit (inf mix)
 no i.d.: sky's the limit
@@ -835,7 +840,9 @@ common: geto heaven part two
 common: a song for assata
 common: real people
 common: the bitch in you (pete rock remix)
+dj ezasscul: take it ez (feat. supreme sol; cuts by abstrakt idea)
 dj ezasscul: one take
+dj ezasscul: one take (feat 2mo'key)
 camp lo: black nastaljack (noel zancanella remix)
 mr j medeiros: strangers
 mr j medeiros: change (feat. strange fruit, rez)
@@ -855,8 +862,9 @@ the pharcyde: runnin'
 the pharcyde: Y?
 the pharcyde: the e.n.d.
 the pharcyde: ya mama
-jorja smith: on my mind (live at le lieu prive, paris)
+jorja smith: on my mind (recorded at le lieu prive, paris)
 zo!: for you
 zo!: overdue process
 george fields: over feat. last jazz club
 fatnice, mushmouf: live for 95
+rob viktum: 4/17/1975
