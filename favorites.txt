@@ -142,6 +142,9 @@ jazz liberatorz:
     * clin d'oeil
     * fruit of the past
 
+funky dl:
+    * classic was the day
+
 freddie joachim:
     * cougar
 
@@ -157,10 +160,14 @@ DOOM:
     * MF DOOM remixed by tom caruana
 
 joao donato:
+    * the new sound of brazil
     * e lala lay-e
 
 blue six:
     * beautiful tomorrow
+
+ljones:
+    * soul below
 
 ###############################################################################
 
@@ -225,6 +232,7 @@ asheru and blue black: smiley
 asheru and blue black: elevator music
 mujo: flowman
 nomak: geishas in the days (shin ski remix)
+funky dl: make decisions
 funky dl: if I had a day to live
 funky dl: billie holiday
 funky dl: london convention (not 4 sale remix)
@@ -294,6 +302,7 @@ DOOM: my favorite ladies (tom caruana remix)
 DOOM: it ain't nuttin (tom caruana remix)
 DOOM: change the beat (tom caruana remix)
 DOOM: ghostwhirl (tom caruana remix)
+DOOM: impending doom (tom caruana remix)
 DOOM: vomitspit (the vintage skeleton sounds remix)
 DOOM: genie in a bottle (my favorite ladies grip grand remix)
 DOOM: project jazz
@@ -468,6 +477,8 @@ uyama hiroto: vision eyes feat golden boy
 uyama hiroto: relax your mind feat pase rock
 uyama hiroto: soul of freedom feat cise starr
 uyama hiroto: spacemountain
+cise starr: adrift
+cise starr: adrift (uyama hiroto remix)
 pase rock: it's about time
 vagabond maurice: lethal lunacy
 vagabond maurice: kimchi (pt 2) / the morning star
@@ -868,12 +879,18 @@ the pharcyde: frontline
 the pharcyde: 1st place
 the pharcyde: clouds
 the pharcyde: runnin'
+the pharcyde: she said
 the pharcyde: Y?
 the pharcyde: the e.n.d.
 the pharcyde: ya mama
+the pharcyde: pack the pipe
 jorja smith: on my mind (recorded at le lieu prive, paris)
 zo!: for you
 zo!: overdue process
 george fields: over feat. last jazz club
 fatnice, mushmouf: live for 95
 rob viktum: 4/17/1975
+el fudge: liquid
+acro jazz laboratories: back with another one feat. nieve, tunji, noah king
+contraband: base
+krumb snatcha: take the pain away
