@@ -14,6 +14,13 @@ dj four, one, one:
 freddie joachim / qstn:
     * mellow orange vols 1-12 (these are hip-hop/jazz mixes)
 
+nujabes:
+    * tribe sampler vol 1 (sides a, b) (this isn't really hip hop; closer to
+      jazz)
+    * sweet sticky thing (sides a, b) (this is literally 70s music)
+    * good music cuisine - ristorante nujabes (preference to side b) (not
+      really sure how to classify this... maybe closer to old house?)
+
 dj tonk:
     * 100% dope hiphop brend
     ! [ volumes 2 and 3 are RARE, but probably belong here too ]
@@ -58,13 +65,6 @@ dj fumiya:
         - the only thing is this one has a weird part toward the end (shortly
           after montefiori cocktail - gypsy woman) where a female is saying
           sexual things
-
-nujabes:
-    * tribe sampler vol 1 (sides a, b) (this isn't really hip hop; closer to
-      jazz)
-    * sweet sticky thing (sides a, b) (this is literally 70s music)
-    * good music cuisine - ristorante nujabes (preference to side b) (not
-      really sure how to classify this... maybe closer to old house?)
 
 dj skandal / dj ameldabee:
     * hi tek vs madlib
@@ -493,6 +493,7 @@ vagabond maurice: kimchi (pt 2) / the morning star
 vagabond maurice: kame sennin
 cyne: paradise
 cyne: midas
+cyne: floatin'
 vanilla: ajfa
 vanilla: give you everything
 vanilla: wishiknew
@@ -702,6 +703,8 @@ supernatural: another hip hop love song
 supernatural: not that way
 supernatural: internationally known
 magnetic north: la la la (re:plus remix)
+the antidotes: sweet harmony revisted (re:plus remix)
+the antidotes: sweet harmony revisted
 re:plus: dec.27
 re:plus: sol (feat cise star)
 re:plus: solitude
@@ -919,9 +922,12 @@ k-otix: spontaneity intro
 k-otix: ???????!?!?
 k-otix: ooh ahh feat. lone catalysts
 k-otix: first day
+k-otix: something
 nara leao: odara
 eminem: never 2 far
 eminem: three six five (rare studio track 4)
 john klemmer: free soul
 j.a.m.: jazzy joint feat. jose james
 bop alloy: jazzmatic feat. steph the sapphic songstress
+exile: I don't think you understand
+exile: fly feat. blu
