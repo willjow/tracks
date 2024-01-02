@@ -321,6 +321,13 @@ Download Queue:
     aphex twin
     jamiroquai
 
+    pat martino
+    john scofield
+    kurt rosenwinkel
+    ed bickert
+    julian lage
+    joe negri
+
 
 # Questionable todo
     shinee (ex. 1 of 1: don't stop, don't let me go)
