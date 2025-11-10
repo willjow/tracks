@@ -8,8 +8,7 @@ blazo:
     * jazz format mixtape vol 1
 
 dj four, one, one:
-    * jazz flava lesson 2, 3
-    ! [ jazz flava lesson 1 is RARE, but probably belongs here too ]
+    * jazz flava lesson 1, 2, 3
 
 freddie joachim / qstn:
     * mellow orange vols 1-12 (these are hip-hop/jazz mixes)
@@ -874,7 +873,9 @@ common: 6th sense
 common: geto heaven part two
 common: a song for assata
 common: real people
+common: the bitch in yoo
 common: the bitch in you (pete rock remix)
+common: the people
 dj ezasscul: take it ez (feat. supreme sol; cuts by abstrakt idea)
 dj ezasscul: one take
 dj ezasscul: one take (feat 2mo'key)
@@ -954,10 +955,123 @@ esperanza spalding: ponta de areia
 esperanza spalding: I know you know
 esperanza spalding: fall in
 astrud gilberto & stanley turrentine: vera cruz
+casiopea: time limit
+casiopea: black joke
 casiopea: midnight rendezvous (thunder live version)
+casiopea: the tornado
+casiopea: fightman
+casiopea: catch the wind
+casiopea: life line
+katsushika trio: M.R.I
+katsushika trio: red express
+katsushika trio: bright life
+katsushika trio: shining blue
+katsushika trio: shimabata twilight
+katsushika trio: moon town
+katsushika trio: route k3
+katsushika trio: wild guys in the universe
+katsushika trio: zero g
+katsushika trio: moon liner
+katsushika trio: banana express
+katsushika trio: spaceman's shuffle
+katsushika trio: osaka romantica
+jimsaku: firewater
+tetsuo sakurai, greg howe, dennis chambers: another kingdom
+tetsuo sakurai: chaos (tlm20 live)
+tetsuo sakurai: dispensation (tlm20 live)
+pegasus: midnight rendezvous
+pegasus: pastel sea
+pegasus: take me
+tetsujino: brotha
+tetsujino: aaliyah
+tetsujino: for the foundation
 jimmy mcgriff quintet: green dolphin street
 o'donel levy: bad, bad, simba
+o'donel levy: wanna be where you are
 dub pistols: cyclone
-oscar peterson quarted: solar winds
+oscar peterson quartet: solar winds
 baden powell: all the things you are
 amina figarove: maybe yes, maybe no
+vincen garcia: aprieta
+vincen garcia: berlin
+marcus miller: run for cover (live) (the other tapes)
+fourplay: play lady play
+fourplay: magic carpet ride
+bob james: nardis (take it from the top)
+hiromi: wanted
+hiromi: sonicwonderland
+hiromi: up
+bill laurance: ready wednesday
+snarky puppy: ready wednesday (live at groundup msuic festival - sunday 2017)
+the jazz avengers: maybe I know
+the jazz avengers: one by one
+the jazz avengers: michel tokyo
+the jazz avengers: sphere
+the jazz avengers: as you like
+the jazz avengers: j-funk
+the jazz avengers: 8 steps
+senri kawaguchi: infinite possibility
+senri kawaguchi: maybe I know
+senri kawaguchi: young hawk
+senri kawaguchi: flux capacitor
+senri kawaguchi: tucheze
+senri kawaguchi: mulher linda
+kiyo*sen: ladies talk
+kiyo*sen: shone shrine
+kiyo*sen: ambition
+kiyo*sen: supercell
+kiyo*sen: willful cat
+kiyo*sen: beck
+kiyo*sen: eternal ability
+kiyo*sen: mood 68
+kiyo*sen: haphazardly
+kiyo*sen: adventure
+kiyo*sen: 0402
+kiyo*sen: enamel doll
+kiyo*sen: tiki tiki
+kiyo*sen: come on over
+kiyo*sen: midnight construction
+kiyomi otaka: commmodore funk
+kiyomi otaka: 3rd hand
+kiyomi otaka: brain weather
+kiyomi otaka: #26
+ami nakazono: make it happen!
+ami nakazono: are you ready?
+ami nakazono: urban beach feat. koh mr.saxman
+ami nakazono: the real
+miho terachi: beyond the rainbow
+miho terachi: dandelion
+miho terachi: heart of c
+miho terachi: euphoria
+miku yonezawa: los hervideros capes
+kenny burrell: lotus blossom
+madison ryann ward: prodigal
+meshell ndegeocello: I'm diggin you (like an old soul record)
+meshell ndegeocello: if that's your boyfriend (he wasn't last night)
+meshell ndegeocello: the way
+meshell ndegeocello: hot night
+greg howe: jump start
+dimension: are you gonna win?
+dimension: beat #5
+dimension: break out
+dimension: parable
+dimension: leggy
+dimension: T.A jingle
+dimension: keep that same old feeling
+dimension: jazz cigarette
+dimension: yes or no?
+dimension: magic one
+dimension: moment
+dimension: walkin
+dimension: black groove (live millenium)
+dimension: impressions from the outside (live millenium)
+dimension: c'min up
+dimension: the sea song
+dimension: tip tap toe
+dimension: predict the future
+dimension: moon avenue
+dimension: never
+fumiko yamazaki: I like it (live)
+fumiko yamazaki: tsukushi (live)
+fumiko yamazaki: go for it (live)
+fumiko yamazaki: tsukushi (gaia)
