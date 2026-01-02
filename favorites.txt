@@ -967,10 +967,10 @@ katsushika trio: M.R.I
 katsushika trio: red express
 katsushika trio: bright life
 katsushika trio: shining blue
-katsushika trio: shimabata twilight
+katsushika trio: 柴又トワイライト
 katsushika trio: moon town
 katsushika trio: route k3
-katsushika trio: wild guys in the universe
+katsushika trio: ウチュウノアバレンボー
 katsushika trio: zero g
 katsushika trio: moon liner
 katsushika trio: banana express
@@ -1225,6 +1225,26 @@ trix: 神風
 trix: loner
 trix: moonlight mirage
 trix: moving paradise
+trix: turn up!!
+trix: 極楽トンボ
+trix: 涙のみんみん蝉
+trix: terminal
+trix: AI
+trix: ultrasonic vibration
+trix: wedeln
+trix: ドライヴドンキーSP
+trix: チャ・ラ・メール
+trix: ルパン三世のテーマ'78
+trix: 廻廻奇譚
+trix: 残酷な天使のテーゼ
+trix: となりのトトロ
+trix: 天狗
+trix: カリブの風
+trix: nuts-man
+trix: grand slam
+trix: temperature
+trix: サムライ  -PARADE ver.-
+trix: aristoteles
 dezolve: circus
 dezolve: thousand leaves
 dezolve: night of megalopolis
