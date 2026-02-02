@@ -112,7 +112,7 @@ mark farina:
     * mushroom jazz (I tend to favor these for background music vs active
       listening)
 
-mellow orage:
+mellow orange:
     * silent selector vols 1-3
 
 skeez'up:
@@ -934,7 +934,9 @@ eminem: never 2 far
 eminem: three six five (rare studio track 4)
 john klemmer: free soul
 j.a.m.: jazzy joint feat. jose james
-bop alloy: jazzmatic feat. steph the sapphic songstress
+bop alloy: jazzmatic
+bop alloy: the art of work
+bop alloy: star child
 exile: I don't think you understand
 exile: fly feat. blu
 talib kweli & makeba mooncycle: lunchroom classics
@@ -957,12 +959,335 @@ esperanza spalding: I know you know
 esperanza spalding: fall in
 astrud gilberto & stanley turrentine: vera cruz
 casiopea: time limit
+casiopea: tears of the star
+casiopea: space road
+casiopea: midnight rendezvous
+casiopea: swallow
+casiopea: dream hill
 casiopea: black joke
-casiopea: midnight rendezvous (thunder live version)
-casiopea: the tornado
-casiopea: fightman
-casiopea: catch the wind
-casiopea: life line
+casiopea: take me
+casiopea: flying
+casiopea: asayake
+casiopea: sailing alone
+casiopea: olion
+casiopea: magic ray
+casiopea: space road (thunder live)
+casiopea: sailing alone (thunder live)
+casiopea: I'm sorry (thunder live)
+casiopea: black joke (thunder live)
+casiopea: midnight rendezvous (thunder live)
+casiopea: gypsy wind
+casiopea: eyes of the mind
+casiopea: ripple dance
+casiopea: make up city
+casiopea: twinkle wing
+casiopea: a place in the sun
+casiopea: lakai
+casiopea: la costa
+casiopea: smile again
+casiopea: swear
+casiopea: domino line
+casiopea: galactic funk
+casiopea: sunnyside feelin'
+casiopea: endless vision
+casiopea: take me (mint jams)
+casiopea: asayake (mint jams)
+casiopea: midnight rendezvous (mint jams)
+casiopea: time limit (mint jams)
+casiopea: domino line (mint jams)
+casiopea: tears of the star (mint jams)
+casiopea: swear (mint jams)
+casiopea: mid-manhattan
+casiopea: transatlantic
+casiopea: galactic funk (4x4)
+casiopea: chandelier
+casiopea: looking up
+casiopea: dazzling
+casiopea: long term memory
+casiopea: strasse
+casiopea: misty lady
+casiopea: fruit salad sunday
+casiopea: from over the sky
+casiopea: sweat it out
+casiopea: in the pocket
+casiopea: fabbydabby
+casiopea: living on a feeling
+casiopea: zoom
+casiopea: down upbeat
+casiopea: the continental way
+casiopea: road rhythm
+casiopea: froufrou
+casiopea: night storm
+casiopea: twilight solitude
+casiopea: air fantasy
+casiopea: down upbeat (casiopea live)
+casiopea: continental way (casiopea live)
+casiopea: fabbydabby (casiopea live)
+casiopea: twilight solitude (casiopea live)
+casiopea: marine blue (casiopea live)
+casiopea: looking up (casiopea live)
+casiopea: eyes of the mind (casiopea live)
+casiopea: asayake (casiopea live)
+casiopea: galactic funk (casiopea live)
+casiopea: street performer
+casiopea: the turning bell
+casiopea: after school
+casiopea: conjunction
+casiopea: keepers
+casiopea: lunar shade
+casiopea: conjunction (perfect live ii)
+casiopea: looking up (perfect live ii)
+casiopea: street performer (perfect live ii)
+casiopea: zoom (perfect live ii)
+casiopea: departure (perfect live ii)
+casiopea: keepers (perfect live ii)
+casiopea: samba mania (perfect live ii)
+casiopea: galactic funk (perfect live ii)
+casiopea: misty lady (perfect live ii)
+casiopea: access
+casiopea: do-loo-doo?
+casiopea: sunset rhapsody
+casiopea: super sonic movement
+casiopea: red zone
+casiopea: super sonic movement (world live)
+casiopea 2nd: aoi hono
+casiopea 2nd: nostalgia
+casiopea 2nd: the party night
+casiopea 2nd: fightman
+casiopea 2nd: the sky
+casiopea 2nd: passionate voltage
+casiopea 2nd: final chance
+casiopea 2nd: akappachi-izm
+casiopea 2nd: private sunday
+casiopea 2nd: navigators
+casiopea 2nd: top wind
+casiopea 2nd: eccentric games
+casiopea 2nd: memento memorial
+casiopea 2nd: through the highway
+casiopea 2nd: glory
+casiopea 2nd: fly to the sun
+casiopea 2nd: the tornado
+casiopea 2nd: shadow of midnight
+casiopea 2nd: life goes on
+casiopea 2nd: voice from others
+casiopea 2nd: ancient roman
+casiopea 2nd: shocking function
+casiopea 2nd: sweet vision
+casiopea 2nd: dazzling
+casiopea 2nd: justice
+casiopea 2nd: believe again
+casiopea 2nd: distance to paradise
+casiopea 2nd: magic ray
+casiopea 2nd: shining voyage
+casiopea 2nd: set sail
+casiopea 2nd: living things
+casiopea 2nd: surf's up
+casiopea 2nd: cool rain
+casiopea 2nd: fightman (made in melbourne)
+casiopea 2nd: passionate voltage (made in melbourne)
+casiopea 2nd: final chance (made in melbourne)
+casiopea 2nd: once in a blue moon (made in melbourne)
+casiopea 2nd: akappachi-izm (made in melbourne)
+casiopea 2nd: the sky (made in melbourne)
+casiopea 2nd: top wind (made in melbourne)
+casiopea 2nd: messengers (made in melbourne)
+casiopea 2nd: navigators (we want more)
+casiopea 2nd: time capsule medley (we want more)
+casiopea 2nd: private sunday (we want more)
+casiopea 2nd: midnight rendezvous
+casiopea 2nd: domino line
+casiopea 2nd: black joke
+casiopea 2nd: eyes of the mind
+casiopea 2nd: misty lady
+casiopea 2nd: looking up
+casiopea 2nd: conjunction
+casiopea 2nd: take me
+casiopea 2nd: down upbeat
+casiopea 2nd: the continental way
+casiopea 2nd: coast to coast
+casiopea 2nd: twilight solitude
+casiopea 2nd: swear
+casiopea 2nd: galactic funk
+casiopea 2nd: asian dreamer
+casiopea 2nd: keep ahead
+casiopea 2nd: hard boiled
+casiopea 2nd: juicy jam
+casiopea 2nd: intensive way
+casiopea 2nd: ihilani
+casiopea 2nd: loop of magic
+casiopea 2nd: blooming
+casiopea 2nd: the mind quake
+casiopea 2nd: just one way
+casiopea 2nd: secret message
+casiopea 2nd: seasons
+casiopea 2nd: super sense
+casiopea 2nd: mystic lie
+casiopea 2nd: golden waves
+casiopea 2nd: forbidden fruits
+casiopea 2nd: chain reaction
+casiopea 2nd: speeded age
+casiopea 2nd: the tease
+casiopea 2nd: movin'
+casiopea 2nd: riddle
+casiopea 2nd: the purple bird
+casiopea 2nd: hole heartedly
+casiopea 2nd: treasure
+casiopea 2nd: third possibility
+casiopea 2nd: final matter
+casiopea 2nd: night breeze
+casiopea 2nd: the day of selection
+casiopea 2nd: freak jack
+casiopea 2nd: down south
+casiopea 2nd: twinkle visions
+casiopea 2nd: the night in blue
+casiopea 2nd: promenade
+casiopea 2nd: day and night
+casiopea 2nd: city talk
+casiopea 2nd: freak jack (20th)
+casiopea 2nd: down south (20th)
+casiopea 2nd: precious joy (20th)
+casiopea 2nd: lucky stars (20th)
+casiopea 2nd: flash back medley (20th)
+casiopea 2nd: midnight rendezvous (20th)
+casiopea 2nd: shocking function (20th)
+casiopea 2nd: galactic funk (20th)
+casiopea 2nd: red zone (20th)
+casiopea 2nd: eccentric games (20th)
+casiopea 2nd: halle (20th)
+casiopea 2nd: asayake (20th)
+casiopea 2nd: fight man (20th)
+casiopea 2nd: pick up the good one
+casiopea 2nd: acid rain
+casiopea 2nd: hard worker
+casiopea 2nd: give me your love
+casiopea 2nd: it's a long story
+casiopea 2nd: tight line
+casiopea 2nd: good luck!
+casiopea 2nd: wonder quest
+casiopea 2nd: run
+casiopea 2nd: the road of frontiers
+casiopea 2nd: corona
+casiopea 2nd: fascination
+casiopea 2nd: avalon
+casiopea 2nd: line & color
+casiopea 2nd: rose
+casiopea 2nd: horizonte
+casiopea 2nd: suggestive one
+casiopea 2nd: windy city
+casiopea 2nd: tropicool
+casiopea 2nd: sprinter
+casiopea 2nd: saridari-dahlidali
+casiopea 2nd: gazebo
+casiopea 2nd: black joke (gig25)
+casiopea 2nd: eyes of the mind (gig25)
+casiopea 2nd: domino line (gig25)
+casiopea 2nd: mid manhattan (gig25)
+casiopea 2nd: looking up (gig25)
+casiopea 2nd: the soundgraphy (gig25)
+casiopea 2nd: halle (gig25)
+casiopea 2nd: coast to coast (gig25)
+casiopea 2nd: do-loo-doo? (gig25)
+casiopea 2nd: inishie (gig25)
+casiopea 2nd: taiyo-fu (gig25)
+casiopea 2nd: cyber zone (gig25)
+casiopea 2nd: akappachi-ism (gig25)
+casiopea 2nd: new history (gig25)
+casiopea 2nd: life goes on (gig25)
+casiopea 2nd: set sail (gig25)
+casiopea 2nd: ihilani (gig25)
+casiopea 2nd: blooming (gig25)
+casiopea 2nd: golden waves (gig25)
+casiopea 2nd: night breeze (gig25)
+casiopea 2nd: lucky stars (gig25)
+casiopea 2nd: tight line (gig25)
+casiopea 2nd: circular dream (gig25)
+casiopea 2nd: cry with terra (gig25)
+casiopea 2nd: teatro saudade (gig25)
+casiopea 2nd: universe
+casiopea 2nd: southern breeze
+casiopea 2nd: mawari-michi
+casiopea 2nd: when you grow up
+casiopea 2nd: amegakuru
+casiopea 3rd: live it up
+casiopea 3rd: autobahn
+casiopea 3rd: once in the life
+casiopea 3rd: vortex of emotion
+casiopea 3rd: every moment
+casiopea 3rd: fight man 2012ver.
+casiopea 3rd: live it up (ta ma te box tour)
+casiopea 3rd: autobahn (ta ma te box tour)
+casiopea 3rd: dazzling (ta ma te box tour)
+casiopea 3rd: every moment (ta ma te box tour)
+casiopea 3rd: catch the wind
+casiopea 3rd: organic evolution
+casiopea 3rd: smash!
+casiopea 3rd: a o zo ra
+casiopea 3rd: catch the wind (a so n da)
+casiopea 3rd: the sky (a so n da)
+casiopea 3rd: organic evolution (a so n da)
+casiopea 3rd: smash! (a so n da)
+casiopea 3rd: a o zo ra (a so n da)
+casiopea 3rd: j.k.g.
+casiopea 3rd: life line
+casiopea 3rd: missions
+casiopea 3rd: urban stars
+casiopea 3rd: magic touch
+casiopea 3rd: flower of life
+casiopea 3rd: space locomotion
+casiopea 3rd: a hero of the planet
+casiopea 3rd: the universe of love
+casiopea 3rd: catch the wind (40th live)
+casiopea 3rd: the sky (40th live)
+casiopea 3rd: domino line (40th live)
+casiopea 3rd: do-loo-doo? (40th live)
+casiopea 3rd: super sonic movement (40th live)
+casiopea 3rd: top wind (40th live)
+casiopea 3rd: gypsy wind (40th live)
+casiopea 3rd: space locomotion (40th live)
+casiopea 3rd: fight man (40th live)
+casiopea 3rd: the universe of love (40th live)
+casiopea 3rd: j.k.g (4010)
+casiopea 3rd: take me (4010)
+casiopea 3rd: galactic funk (4010)
+casiopea 3rd: autobahn (4010)
+casiopea 3rd: mid-manhattan (4010)
+casiopea 3rd: eccentric games (4010)
+casiopea 3rd: a o zo ra (4010)
+casiopea 3rd: fight man (4010)
+casiopea 3rd: asayake (4010)
+casiopea-p4: dreamer's dream
+casiopea-p4: unthinkable
+casiopea-p4: vivaciously
+casiopea-p4: daily bread
+casiopea-p4: fly me to the future
+casiopea-p4: thanks a lot
+casiopea-p4: dreamer's dream (new beginning live)
+casiopea-p4: unthinkable (new beginning live)
+casiopea-p4: vivaciously (new beginning live)
+casiopea-p4: daily bread (new beginning live)
+casiopea-p4: fly me to the future (new beginning live)
+casiopea-p4: thanks a lot (new beginning live)
+casiopea-p4: gypsy wind (new beginning live)
+casiopea-p4: fight man (new beginning live)
+casiopea-p4: top wind (new beginning live)
+casiopea-p4: live it up (new beginning live)
+casiopea-p4: catch the wind (new beginning live)
+casiopea-p4: the sky (new beginning live)
+casiopea-p4: the time has come
+casiopea-p4: no place like here
+casiopea-p4: hour of the rainbow
+casiopea-p4: fight man (p4's finale)
+casiopea-p4: dreamer's dream (p4's finale)
+casiopea-p4: the time has come (p4's finale)
+casiopea-p4: no place like here (p4's finale)
+casiopea-p4: eyes of the mind (p4's finale)
+casiopea-p4: galactic funk (p4's finale)
+casiopea-p4: asayake (p4's finale)
+casiopea vs the square: once in a blue moon
+casiopea vs the square: midnight circle
+casiopea vs the square: mid-manhattan
+casiopea vs the square: fightman
+casiopea vs the square: asayake
 katsushika trio: M.R.I
 katsushika trio: red express
 katsushika trio: bright life
@@ -995,7 +1320,20 @@ baden powell: all the things you are
 amina figarove: maybe yes, maybe no
 vincen garcia: aprieta
 vincen garcia: berlin
+vincen garcia: aprieta 2.0
+vincen garcia: melatonina
 marcus miller: run for cover (live) (the other tapes)
+vital techtones: giant steps
+vital techtones: subzero
+vital techtones: the litigants
+vital techtones: catch me if you can
+vital techtones: nairobe express
+vital techtones: who knew?
+tribal tech: caribbean
+tribal tech: punking head
+tribal tech: dense dance
+tribal tech: elvis at the hop
+tribal tech: face first
 fourplay: play lady play
 fourplay: magic carpet ride
 bob james: nardis (take it from the top)
@@ -1007,16 +1345,23 @@ snarky puppy: ready wednesday (live at groundup music festival - sunday 2017)
 the jazz avengers: maybe I know
 the jazz avengers: one by one
 the jazz avengers: michel tokyo
+the jazz avengers: raise your flag
+the jazz avengers: all the way
 the jazz avengers: sphere
 the jazz avengers: as you like
 the jazz avengers: j-funk
 the jazz avengers: 8 steps
+the jazz avengers: j-funk (live)
 senri kawaguchi: infinite possibility
 senri kawaguchi: maybe I know
 senri kawaguchi: young hawk
 senri kawaguchi: flux capacitor
 senri kawaguchi: tucheze
+senri kawaguchi: tucheze (triangle live)
+senri kawaguchi: storm warning
 senri kawaguchi: mulher linda
+nankai trio: battle on southern sea
+nankai trio: five senses
 kiyo*sen: ladies talk
 kiyo*sen: shone shrine
 kiyo*sen: ambition
@@ -1040,11 +1385,25 @@ ami nakazono: make it happen!
 ami nakazono: are you ready?
 ami nakazono: urban beach feat. koh mr.saxman
 ami nakazono: the real
+ami nakazono: hairy crab
+ami nakazono: 19686
+cityy: the chill top bar
 le grand retour: interlude 2 (over)
 miho terachi: beyond the rainbow
 miho terachi: dandelion
 miho terachi: heart of c
 miho terachi: euphoria
+miho terachi: moonshine
+miho terachi & taichi minagawa: velvet cruising
+miho terachi & taichi minagawa: slow starting
+miho terachi & taichi minagawa: sunset dance
+miho terachi & taichi minagawa: a piece of future
+miho terachi & taichi minagawa: late summer blues
+sax triplets: always there
+sax triplets: make it move
+sax triplets: RRR
+sax triplets: have fun!
+sax triplets: watercolor
 miku yonezawa: my dear
 miku yonezawa: sky tree
 miku yonezawa: hyper drive
@@ -1052,6 +1411,68 @@ miku yonezawa: miss funk
 miku yonezawa: los hervideros capes
 miku yonezawa: lizard island
 miku yonezawa: tenor hunter
+nautilus: nautilus
+nautilus: atlantis
+nautilus: torpedo
+nautilus: we live in brooklyn baby
+nautilus: lady day and john coltrane feat. kei owada
+nautilus: hurricane
+nautilus: how right now
+nautilus: nautiloid quest
+nautilus: serengeti
+nautilus: abyss
+nautilus: stone ground seven
+nautilus: good question
+nautilus: beauty and the beast
+nautilus: our journal
+nautilus: love inside me
+nautilus: the world according to us
+nautilus: in the rain
+nautilus: elegant people
+nautilus: blow my mind
+nautilus: the return of nautilus
+nautilus: people make the world go round
+nautilus: mobius
+nautilus: root down
+nautilus: root down feat. fleur earth
+nautilus: expansions
+nautilus: more today than yesterday feat. hanah spring
+nautilus: kudu
+nautilus: refrain
+nautilus: sweet love of mine
+nautilus: it's a shame feat. hanah spring
+nautilus: space funk
+nautilus: looking back
+nautilus: skyscrapers
+nautilus: we're getting down
+nautilus: another world
+nautilus: paint it black
+nautilus: caught up
+nautilus: sweet love of mine (live)
+nautilus: jean de fleur
+nautilus: virtual insanity
+nautilus: sweet power of your embrace
+nautilus: beyond the redemption
+nautilus: georgy porgy
+nautilus: the second arrangement
+nautilus: what a fool believes
+nautilus: 52nd street
+nautilus: what you won't do for love (soul supreme remix)
+nautilus: introduction pt.8 (sunrise)
+nautilus: life
+nautilus: cosmic maze
+nautilus: master blaster (jammin')
+nautilus: カメレオン
+nautilus: mystic voyage
+nautilus: half a minute
+nautilus: jump around
+nautilus: the bottle
+madoron: 9 p.m.
+madoron: avalon
+madoron: I know your, I live you
+madoron: recado bossa nova
+madoron: close to you
+madoron: samba de flora
 kenny burrell: lotus blossom
 madison ryann ward: prodigal
 meshell ndegeocello: I'm diggin you (like an old soul record)
@@ -1136,6 +1557,8 @@ fumiko yamazaki: tsukushi (live)
 fumiko yamazaki: go for it (live)
 fumiko yamazaki: tsukushi (gaia)
 fumiko yamazaki: 19 dwarfs
+riyoko takagi: luna sol
+riyoko takagi: aozora
 riyoko takagi: prelude & concert studies
 riyoko takagi: maze (jiro okada)
 rayleigh: re:new
@@ -1167,7 +1590,12 @@ hiromitsu: velas
 hiromitsu: movin'
 mitsuru sutoh: on the track (live)
 mitsuru sutoh: key hunter (live)
+mitsuru sutoh: super g
+mitsuru sutoh: rushing spirits (live)
+mitsuru sutoh: the funky trip
+mitsuru sutoh: the funky trip (live)
 mitsuru sutoh: explorer (live)
+mitsuru sutoh: super g (live)
 trix: samurai
 trix: miller light
 trix: an index
@@ -1245,6 +1673,18 @@ trix: grand slam
 trix: temperature
 trix: サムライ  -PARADE ver.-
 trix: aristoteles
+korenos: azteca
+korenos: shadi
+korenos: calcium funk
+korenos: jungle boat
+korenos: grape sugar (live)
+korenos: jungle boat (live)
+4genexyz: what you may call it
+4genexyz: rich light green
+4genexyz: daybreak
+4genexyz: fuwaku
+4genexyz: the box road
+4genexyz: we were 4 gens
 dezolve: circus
 dezolve: thousand leaves
 dezolve: night of megalopolis
@@ -1280,3 +1720,63 @@ four of a kind: long wrong way
 four of a kind: upward mobility
 four of a kind: chouette
 four of a kind: summer soft
+naniwa express: believin'
+naniwa express: the statue of liberty
+naniwa express: between the sky and the ground
+naniwa express: jasmin
+naniwa express: shock land
+naniwa express: inside of you
+naniwa express: oriental makin' love
+naniwa express: loving you, sometimes leaving you
+naniwa express: the lady of toledo
+naniwa express: night flower
+naniwa express: sonic boom
+naniwa express: soon
+naniwa express: one damn groove
+naniwa express: the ground level
+naniwa express: jazzalka
+naniwa express: x tribe
+naniwa express: urban barbarian
+naniwa express: vacuum vox
+naniwa express: 1.2.3.
+naniwa express: overwhelming
+naniwa express: ascension
+naniwa express: along the avenue
+yuko imai: capricious boy
+yuko imai: きれいになりたい
+yuko imai: 私らしく週末を過ごすなら
+yuko imai: stop on the way
+yuko imai: waiting for good-bye
+yuko imai: close friend
+yuko imai: 十年後の手紙
+yuko imai: momentary
+yuko imai: jr.
+yuko imai: living color
+yuko imai: trust your heart
+yuko imai: for oneself
+yuko imai: I wish...
+yuko imai: unnatural love～いけない恋～
+yuko imai: puzzle
+yuko imai: 真夜中のドア～stay with me～
+yuko imai: it's my time to shine
+yuko imai: love squall
+yuko imai: he loves you
+yuko imai: spell of love
+yuko imai: drive in blue
+yuko imai: la brisa
+yuko imai: fantasy
+yuko imai: blackcat rendezvous
+yuko imai: heart forecast-yokan-
+yuko imai: it's my time to shine -yuko.i meets t-groove and yuma hara remix (dance mix)
+yuko imai: mayonakano door -stay with me-t-groove exteded remix-
+yuko imai: eternal promise
+yuko imai: surprise of summer
+yuko imai: 赤と黒
+yuko imai: 気分はもうメンソール
+yuko imai: みずいろの雨
+yuko imai: 恋のブギ・ウギ・トレイン
+yuko imai: oh no, oh yes!
+riccardo oliva: fuori programma
+W.I.N.S.: suspencible the fourth
+W.I.N.S.: earth dance (mystery of alimangale)
+yuki enomoto: 618
