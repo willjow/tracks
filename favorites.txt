@@ -1305,6 +1305,8 @@ jimsaku: firewater
 tetsuo sakurai, greg howe, dennis chambers: another kingdom
 tetsuo sakurai: chaos (tlm20 live)
 tetsuo sakurai: dispensation (tlm20 live)
+tetsuo sakurai: samurai faith
+tetsuo sakurai: wonderland in the sky
 pegasus: midnight rendezvous
 pegasus: pastel sea
 pegasus: take me
@@ -1420,7 +1422,16 @@ the jazz avengers: 8 steps
 the jazz avengers: j-funk (live)
 senri kawaguchi: infinite possibility
 senri kawaguchi: maybe I know
+senri kawaguchi: send one your love
+senri kawaguchi: samurai faith
+senri kawaguchi: wonderland in the sky
+senri kawaguchi: see you much later
+senri kawaguchi: the hunt
 senri kawaguchi: young hawk
+senri kawaguchi: onyx
+senri kawaguchi: all this love
+senri kawaguchi: tombo in 7/4
+senri kawaguchi: real life
 senri kawaguchi: flux capacitor
 senri kawaguchi: tucheze
 senri kawaguchi: tucheze (triangle live)
@@ -1457,6 +1468,7 @@ cityy: the chill top bar
 le grand retour: interlude 2 (over)
 miho terachi: beyond the rainbow
 miho terachi: dandelion
+miho terachi: oneness
 miho terachi: heart of c
 miho terachi: euphoria
 miho terachi: moonshine
@@ -1477,6 +1489,10 @@ miku yonezawa: miss funk
 miku yonezawa: los hervideros capes
 miku yonezawa: lizard island
 miku yonezawa: tenor hunter
+tokyo groove jyoshi: samba de fantazuma
+tokyo groove jyoshi: rise up
+tokyo groove jyoshi: mojito
+tokyo groove jyoshi: e funk
 nautilus: nautilus
 nautilus: atlantis
 nautilus: torpedo
@@ -1547,13 +1563,19 @@ meshell ndegeocello: the way
 meshell ndegeocello: hot night
 greg howe: jump start
 dimension: dizzy
+dimension: go up stream
 dimension: are you gonna win?
+dimension: early morning
 dimension: beat #5
 dimension: break out
 dimension: parable
 dimension: leggy
 dimension: T.A jingle
 dimension: keep that same old feeling
+dimension: are you gonna win? (sixth live)
+dimension: break out (sixth live)
+dimension: jungle dancer (sixth live)
+dimension: beat #5 (sixth live)
 dimension: jazz cigarette
 dimension: yes or no?
 dimension: magic one
@@ -1618,7 +1640,6 @@ dimension: the new wonders
 dimension: time code
 dimension: 2 in 5
 fumiko yamazaki: I like it (live)
-fumiko yamazaki: I like it (live)
 fumiko yamazaki: tsukushi (live)
 fumiko yamazaki: go for it (live)
 fumiko yamazaki: tsukushi (gaia)
@@ -1637,13 +1658,17 @@ lu7: bonito
 lu7: nut kicking squirrel
 lu7: tanzanite ring
 lu7: interlude#1(pink tourmaline)
-lu7: tangled yuzu vine
+lu7: tangled yuku vine
 lu7: azurite dance
+lu7: one screw short
 lu7: floating city
 lu7: interlude#1 (polaris)
+lu7: 白雨
+lu7: passing the air gates
 lu7: shoot the breeze
 lu7: charon kalon
 lu7: 坂の上の三日月
+lu7: wombat in april
 lu7: 火蜥蜴の祭りへの序曲
 lu7: 冥王星にひとっ飛び
 lu7: dedicato a amedeo
@@ -1771,6 +1796,9 @@ dezolve: coruscate
 dezolve: big dipper
 dezolve: southern cross
 dezolve: nebula dance
+maoki yamamoto: prototype
+maoki yamamoto: dawn~sunrise avenue
+maoki yamamoto: symbiosis
 four of a kind: side by side (we go)
 four of a kind: finger tough
 four of a kind: trilha alegre do tio
@@ -1790,6 +1818,7 @@ naniwa express: believin'
 naniwa express: the statue of liberty
 naniwa express: between the sky and the ground
 naniwa express: jasmin
+naniwa express: manhattan express
 naniwa express: shock land
 naniwa express: inside of you
 naniwa express: oriental makin' love
@@ -1846,3 +1875,55 @@ riccardo oliva: fuori programma
 W.I.N.S.: suspencible the fourth
 W.I.N.S.: earth dance (mystery of alimangale)
 yuki enomoto: 618
+daisuke kawai x tommy campbell featuring yoshiaki okayasu: an old castle (live)
+yoshiaki okayasu: midnight city
+yoshiaki okayasu: real intention
+yoshiaki okayasu: last night when we were young
+yoshiaki okayasu: invitation
+yoshiaki okayasu: round midnight
+yoshiaki okayasu: a street car named desire
+yoshiaki okayasu: listen to the dawn
+yoshiaki okayasu: violets for your furs
+selim slive elementz: call it whatever
+selim slive elementz: double image
+yusuke hirado: taxi driver theme
+yusuke hirado: down to the south
+yusuke hirado: the kicker
+yusuke hirado: rhymes
+yusuke hirado: early bird
+yusuke hirado: blue sky
+yusuke hirado: galaxy highway
+yusuke hirado: kaleidoscope
+yusuke hirado: route 202
+yusuke hirado: puzzle
+yusuke hirado: air dancing
+yusuke hirado: he loves you feat. yu-ri tanaka
+yusuke hirado: forest of black feat. ami nakazono
+yusuke hirado: collision in blue
+yusuke hirado: dear limmertz feat. kazuhiro sunaga
+yusuke hirado: total eclipse
+shoya kitagawa: night trip
+uk rampage: the de'but
+uk rampage: home
+uk rampage: qui feat. mami
+uk rampage: the 5 minute mythology
+uk rampage: hallelujah3404
+uk rampage: ファンタズマ
+sst band: power games
+sst band: reckless running
+sst band: ignition
+sega rally championship 1995: my dear friend, rally
+sega rally championship 1995: reckless running
+sega rally championship 1995: ignition
+sst band: hyper city (strike fighter)
+sst band: galaxy force ~bgm~
+sst band: hyper city (ula 4)
+sst band: galaxy force ~bgm~ -rhythm retake remix-
+sst band: back to basic
+sst band: seventh circle
+sst band: ooimachi blues
+sst band: parallel spokes
+sst band: eventide
+sst band: beyond the galaxy 2022
+sst band: oimachi blues 2022
+sst band: ignition "sega rally championship -ac ver.-"
